@@ -11,12 +11,11 @@ insert_title: true
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-#  ARACHNIS: Interface to design cable robot
+#  ARACHNIS: A GUI to design and analyze cable-driven robots
 
 ## Description
 
-ARACHNIS is a graphical user interface for the analysis and paramet ric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design param eters of the robot, the task specifications, and returns a visualisation of the CDPR Wrench Feasible
-Workspace (WFW) and Interference-Free Constant Orientation Workspace (IFCOW). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. Interferences between the moving parts of a CDPR are also determined by an existing technique for tracing the interference-free workspace of such robots. Finally, the WFW and the IFCOW of a planar cable-driven parallel robot and of a spatial cable-driven parallel robot are plotted in order to demonstrate the potential of ARACHNIS.
+ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs (the  Wrench Feasible Workspace (WFW) and Interference-Free Constant Orientation Workspace (IFCOW)). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. Interferences between the moving parts of a CDPR are  determined by an existing technique for tracing the interference-free workspace of such robots. 
 
 <figure>
 	<a href="/images/cable_robot_interface.jpg"><img src="/images/cable_robot_interface.jpg" alt="image"></a>
@@ -29,5 +28,5 @@ Workspace (WFW) and Interference-Free Constant Orientation Workspace (IFCOW). Th
 
 ## Download
 
-Click [here](/share/Arachnis20.zip) to donwload the interface.
+Click [here](/share/Arachnis20.zip) to donwload the latest verion of the interface.
 
