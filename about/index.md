@@ -10,9 +10,11 @@ image:
   #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-My name is Ana Lucia Cruz Ruiz, I come from Tegucigalpa, the capital of Honduras. I moved in Nantes (France) in 2013 to study Robotics. Now I am a PhD student in INRIA Rennes.
+My name is Ana Lucia Cruz Ruiz, and I am  from Tegucigalpa, Honduras.  I am robotitian and enthousiaste of the popularisation of science and technology among children and women.
 
-Here you can donwload my CV.
+Since 2011 I have been living in France, where I studied robotics and control. Currently, I'm a PhD student in INRIA Rennes.
+
+You can donwload my CV here.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
