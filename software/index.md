@@ -33,7 +33,7 @@ Click [here](/share/Arachnis20.zip) to download the latest verion of the interfa
 
 # Projects
 
-##  A 3 DOF PPR parallel mechanisms
+##  A 3 DOF PPR parallel robot
 
 This project consisted in designing a parallel robot for assembly operations with a mobility of two translations and one rotation. Such mechanism can also be referred to as a cylindrical parallel mechanism, and is usually employed in machining operations. To comply with the desired assembly task and motion patter, the mechanism was designed according to the following priorities:
 
