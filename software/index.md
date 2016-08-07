@@ -31,7 +31,7 @@ ARACHNIS is a graphical user interface for the analysis and parametric design of
 
 Click [here](/share/Arachnis20.zip) to download the latest verion of the interface.
 
-## Toolbox for the simulation of the kinematics and sensors of mobile robots
+## Toolbox for the simulation of the kinematics and sensors of mobile robots  
 
 ### Description
 
