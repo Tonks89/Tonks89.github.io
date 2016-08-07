@@ -31,3 +31,27 @@ ARACHNIS is a graphical user interface for the analysis and parametric design of
 
 Click [here](/share/Arachnis20.zip) to download the latest verion of the interface.
 
+# Projects
+
+##  A 3 DOF PPR parallel mechanisms
+
+This project consisted in designing a parallel robot for assembly operations with a mobility of two translations and one rotation. Such mechanism can also be referred to as a cylindrical parallel mechanism, and is usually employed in machining operations. To comply with the desired assembly task and motion patter, the mechanism was designed according to the following priorities:
+
+Priority 1: Be capable of moving throughout a circular regular positional workspace 
+RPW of diameter 500 mm; 
+Priority 2: The moving platform should have a rotation range equal to ±30_ for any 
+position of its geometric center within the RPW; 
+Priority 3: The mechanism should be light; 
+Priority 4: The legs of the mechanism should be identical, namely, the mechanism 
+should be symmetrical; 
+Priority 5: The point-displacement of the geometriccenter of the moving-platform 
+should be smaller than 1 mm for a payload equal to 500 N (the payload is supposed to 
+be normal to the moving platform); 
+Priority 6: The rotational error of the moving platform should be smaller than 1 deg for 
+a moment equal to 100 N.m about the axis passing through the geometric center of the 
+moving platform and normal to the latter.
+
+### Download
+
+Click [here] to download the final CAD design, for a detailed report on how the mechanism was designed just drop me an email.
+
