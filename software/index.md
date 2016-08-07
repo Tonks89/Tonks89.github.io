@@ -31,6 +31,23 @@ ARACHNIS is a graphical user interface for the analysis and parametric design of
 
 Click [here](/share/Arachnis20.zip) to download the latest verion of the interface.
 
+## Toolbox for the simulation of the kinematics and sensors of mobile robots
+
+### Description
+
+Authors: Ana Lucia Cruz & Ekaterina Peshkova
+A toolbox in MATLAB/Simulink, containing:  
+1) A library of kinematic models and sensors (exteroceptive and proprioceptive)    
+2) A graphical user interface that allows users to build ready-to-use simulink models containing the different components in the library with personalized parameters.  
+The toolbox has been tested on control and  localization simulations (for example: odemetry, sequential localization).
+
+### Download
+
+Click [here] to download the toolbox and user manual.
+
+
+
+
 # Projects
 
 ##  A 3 DOF PPR parallel robot
