@@ -78,8 +78,8 @@ Click [here] to download the final CAD design, for a detailed report on how the 
 ## EMG electrode placement and test manual  
 
 Are you engineer with little or no experience on EMG or motion capture sensors? Then, this manual is for you. 
-The manual guides you through the process of finding bony landmarks, using these landmarks as references for the sensor placement, and finally excercises to test they were well placed.
-I designed this manual for a series of experiments involving the human right arm and back, however you could use it as reference to build your own protocol ;).
+The manual guides you through the process of finding bony landmarks, using these landmarks as references for sensor placement, and finally, testing the good placement of the sensors through a series of excercises.
+I designed this manual for my own experiments which involved the human right arm and back, however you could use it as reference to build your own protocol for other body sections ;).
 
 ### Download
 
