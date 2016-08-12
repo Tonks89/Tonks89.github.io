@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software & Projects
+title: Software,  Projects and Manuals
 excerpt: "software&projects"
 modified: 2016-06-01T14:07:07-04:00
 insert_logo: true
