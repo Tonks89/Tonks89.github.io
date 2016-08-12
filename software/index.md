@@ -35,7 +35,7 @@ Click [here](/share/Arachnis20.zip) to download the latest verion of the interfa
 
 ### Description
 
-Authors: Ana Lucia Cruz & Ekaterina Peshkova
+Authors: Ana Lucia Cruz & Ekaterina Peshkova  
 A toolbox in MATLAB/Simulink, containing:  
 1) A library of kinematic models and sensors (exteroceptive and proprioceptive)    
 2) A graphical user interface that allows users to build ready-to-use simulink models containing the different components in the library with personalized parameters.  
