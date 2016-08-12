@@ -45,7 +45,7 @@ The toolbox has been tested on control and  localization simulations (for exampl
 
 Click [here] to download the toolbox and user manual.
 
-
+##  An EMG batch processing tool
 
 
 # Projects
@@ -72,3 +72,15 @@ moving platform and normal to the latter.
 
 Click [here] to download the final CAD design, for a detailed report on how the mechanism was designed just drop me an email.
 
+# Manuals
+
+
+## EMG electrode placement and test manual  
+
+Are you engineer with little or no experience on EMG or motion capture sensors? Then, this manual is for you. 
+The manual guides you through the process of finding bony landmarks, using these landmarks as references for the sensor placement, and finally excercises to test they were well placed.
+I designed this manual for a series of experiments involving the human right arm and back, however you could use it as reference to build your own protocol ;).
+
+### Download
+
+Click [here] to download the manual and its references.
