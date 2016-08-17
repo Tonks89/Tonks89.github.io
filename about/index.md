@@ -5,7 +5,7 @@ excerpt: "About me"
 modified: 2016-31-08T19:44:38.564948-04:00
 insert_logo: true
 image:
-  feature: honduras.jpg
+  feature: aboutpic.jpg
   #credit: WeGraphics
   #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
