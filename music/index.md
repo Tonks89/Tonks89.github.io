@@ -23,6 +23,6 @@ insert_title: true
 
 ![Meeting Yann Tiersen]({{ site.url }}/images/tiersen.jpg)
 
-## Polish Library in Paris
+## Polish Library in Paris (F. Chopin)
 
 ![Polish Library in Paris]({{ site.url }}/images/chopin1.jpg)
