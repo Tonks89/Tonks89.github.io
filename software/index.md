@@ -39,14 +39,15 @@ Authors: Ana Lucia Cruz & Ekaterina Peshkova
 A toolbox in MATLAB/Simulink, containing:  
 1) A library of kinematic models and sensors (exteroceptive and proprioceptive)    
 2) A graphical user interface that allows users to build ready-to-use simulink models containing the different components in the library with personalized parameters.  
-The toolbox has been tested on control and  localization simulations (for example: odemetry, sequential localization).
+The toolbox has been tested on control and  localization simulations (for example: odometry, sequential localization).
 
-### Download
-
-Click [here] to download the toolbox and user manual.
+<figure>
+	<a href="/images/GUI_mobilerobot.jpg"><img src="/images/GUI_mobilerobot.jpg" alt="image"></a>
+</figure>
 
 ##  An EMG batch processing tool
-
+Coming soon!
+<hr>
 
 # Projects
 
@@ -67,10 +68,15 @@ be normal to the moving platform);
 Priority 6: The rotational error of the moving platform should be smaller than 1 deg for 
 a moment equal to 100 N.m about the axis passing through the geometric center of the 
 moving platform and normal to the latter.
+<figure>
+	<a href="/images/PPR_robot.jpg"><img src="/images/PPR_robot.jpg" alt="image"></a>
+</figure>
+
 
 ### Download
+For a detailed report on how the mechanism was designed just drop me an email.
 
-Click [here] to download the final CAD design, for a detailed report on how the mechanism was designed just drop me an email.
+<hr>
 
 # Manuals
 
@@ -83,4 +89,4 @@ I designed this manual for my own experiments which involved the human right arm
 
 ### Download
 
-Click [here] to download the manual and its references.
+Coming soon!

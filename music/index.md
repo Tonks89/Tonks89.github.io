@@ -19,3 +19,10 @@ insert_title: true
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278550964&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+## Meeting Yann Tiersen
+
+![Meeting Yann Tiersen]({{ site.url }}/images/tiersen.jpg)
+
+## Polish Library in Paris
+
+![Polish Library in Paris]({{ site.url }}/images/chopin1.jpg)
