@@ -53,7 +53,7 @@ Coming soon!
 
 ##  A 3 DOF PPR parallel robot
 
-This project consisted in designing a parallel robot for assembly operations with a mobility of two translations and one rotation. Such mechanism can also be referred to as a cylindrical parallel mechanism, and is usually employed in machining operations. To comply with the desired assembly task and motion patter, the mechanism was designed according to the following priorities:
+This project consisted in designing a parallel robot for assembly operations with a mobility of two translations and one rotation. Such mechanism can also be referred to as a cylindrical parallel mechanism, and is usually employed in machining operations. To comply with the desired assembly task and motion pattern, the mechanism was designed according to the following priorities:
 
 Priority 1: Be capable of moving throughout a circular regular positional workspace 
 RPW of diameter 500 mm;  
@@ -83,7 +83,7 @@ For a detailed report on how the mechanism was designed just drop me an email.
 
 ## EMG electrode placement and test manual  
 
-Are you engineer with little or no experience on EMG or motion capture sensors? Then, this manual is for you. 
+Are you an engineer with little or no experience on EMG or motion capture sensors? Then, this manual is for you. 
 The manual guides you through the process of finding bony landmarks, using these landmarks as references for sensor placement, and finally, testing the good placement of the sensors through a series of excercises.
 I designed this manual for my own experiments which involved the human right arm and back, however you could use it as reference to build your own protocol for other body sections ;).
 
