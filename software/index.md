@@ -78,6 +78,7 @@ moving platform and normal to the latter.
 
 
 ### Download
+Coming soon!  
 For a detailed report on how the mechanism was designed just drop me an email.
 
 <hr>
