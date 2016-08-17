@@ -45,6 +45,10 @@ The toolbox has been tested on control and  localization simulations (for exampl
 	<a href="/images/GUI_mobilerobot.jpg"><img src="/images/GUI_mobilerobot.jpg" alt="image"></a>
 </figure>
 
+### Download
+
+Coming soon!
+
 ##  An EMG batch processing tool
 Coming soon!
 <hr>
