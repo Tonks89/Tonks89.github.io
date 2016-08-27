@@ -30,6 +30,6 @@ characters: application to throwing"***, accepted: Computer Animation and Virtua
 
 # 2013
 
-*  François Guay, Philippe Cardou, **Ana Lucia Cruz Ruiz**, Stéphane Caro. ***"Measuring How Well a Structure Supports Varying External Wrenches"***, In Proceedings of the Second Conference in New Advances in Mechanisms, Transmissions and Applications. [Link](http://link.springer.com/chapter/10.1007/978-94-007-7485-8_47)
+*  François Guay, Philippe Cardou, **Ana Lucia Cruz Ruiz**, Stéphane Caro. ***"Measuring how well a structure supports varying external wrenches"***, In Proceedings of the Second Conference in New Advances in Mechanisms, Transmissions and Applications. [Link](http://link.springer.com/chapter/10.1007/978-94-007-7485-8_47)
 
 
