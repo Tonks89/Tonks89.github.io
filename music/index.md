@@ -10,7 +10,7 @@ insert_title: true
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-An important part of my life is music. I am a pianist with a small obsession for F. Chopin's music, but I am also learning to play pop and rock music.
+An important part of my life is music. I am a pianist with a small obsession for F. Chopin and Debussy's music, but I am also learning to play pop and rock music.
 
 ## Hallelujah - Jokla&Ana
 
