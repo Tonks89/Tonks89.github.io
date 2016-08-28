@@ -11,7 +11,7 @@ insert_title: true
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 An important part of my life is music. I began playing piano when I was 7 years old at the Ars Nova Conservatory lead by Asha Santwan in Honduras. Currently, I am self-taught and I play classical and pop/rock music.
-My ultimate favorite composer is F. Chopin, however I am also inlove with the dreamy melodies of Coldplay and the mystical piano solos of Muse. Here you will find some music samples and a piece of my musical adventures.
+My ultimate favorite composer is F. Chopin, however I am also inlove with Chris Martin's (Coldplay) dreamy melodies and Matt Bellamy's (Muse) mystical piano solos. Here you will find some music samples and a piece of my musical adventures.
 
 ## Hallelujah - Jokla&Ana
 
