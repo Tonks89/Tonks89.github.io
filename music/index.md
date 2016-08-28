@@ -10,7 +10,8 @@ insert_title: true
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-An important part of my life is music. I am a pianist with a small obsession for F. Chopin and Debussy's music, but I am also learning to play pop and rock music. Here you will find some music samples and a piece of my musical adventures.
+An important part of my life is music. I began playing piano when I was 7 years old at the Ars Nova Conservatory lead by Asha Santwan in Honduras. Currently, I am self-taught and I play classical and pop/rock music.
+My ultimate favorite composer is F. Chopin, however I am also inlove with the dreamy melodies of Coldplay and the mystical piano solos of Muse. Here you will find some music samples and a piece of my musical adventures.
 
 ## Hallelujah - Jokla&Ana
 
