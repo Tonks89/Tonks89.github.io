@@ -10,11 +10,10 @@ insert_title: true
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-# Software
 
-##  ARACHNIS: A GUI to design and analyze cable-driven robots
+# ROBOTICS
 
-### Description
+##  ARACHNIS: A GUI to design and analyze cable-driven robots 
 
 ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs (the  Wrench Feasible Workspace (WFW) and Interference-Free Constant Orientation Workspace (IFCOW)). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. Interferences between the moving parts of a CDPR are  determined by an existing technique for tracing the interference-free workspace of such robots. 
 
@@ -31,9 +30,7 @@ ARACHNIS is a graphical user interface for the analysis and parametric design of
 
 Click [here](/share/Arachnis20.zip) to download the latest verion of the interface.
 
-## Toolbox for the simulation of the kinematics and sensors of mobile robots  
-
-### Description
+## Toolbox for the simulation of the kinematics and sensors of mobile robots 
 
 Authors: Ana Lucia Cruz & Ekaterina Peshkova  
 A toolbox in MATLAB/Simulink, containing:  
@@ -49,11 +46,6 @@ The toolbox has been tested on control and  localization simulations (for exampl
 
 Coming soon!
 
-##  An EMG batch processing tool
-Coming soon!
-<hr>
-
-# Projects
 
 ##  A 3 DOF PPR parallel robot
 
@@ -83,8 +75,10 @@ For a detailed report on how the mechanism was designed just drop me an email.
 
 <hr>
 
-# Manuals
+# ELECTROMYOGRAPHY
 
+##  An EMG batch processing tool
+Coming soon!
 
 ## EMG electrode placement and test manual  
 
