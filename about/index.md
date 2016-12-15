@@ -17,7 +17,7 @@ Since 2011 I have been living in France following my passion for robotics. I beg
 Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) (MimeTIC team, [ANR project ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage)), where I worked on analyzing human motion (at a kinematic and muscular level), and using these results to control muscle-based characters in physics-based simulations.
 Currently, I am looking for an opportunity to merge my experience in robotics, biomechanics and motor control for rehabilitation applications.
 
-You can download my CV (french version) [here](/share/Cruz_CV.pdf). English version coming soon!
+You can download my CV (french version) [here](/share/AnaLuciaCruzRuiz_CV.pdf). English version coming soon!
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
