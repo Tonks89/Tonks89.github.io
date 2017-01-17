@@ -16,7 +16,7 @@ I come from a small but lovely country called Honduras. A land of coffee, mayas,
 Since 2011 I have been living in France following my passion for robotics. I began by studying a master's degree in [advanced robotics](http://masteraria.irccyn.ec-nantes.fr/index.php/presentation-roba-en) at the École centrale de Nantes, a place where I did not only learn about jacobians and kinematic models, but also the art of solving problems through robots.
 Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) (MimeTIC team, [ANR project ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage)), where I worked on analyzing human motion (at a kinematic and muscular level) to control artificial limbs (virtual characters).
 
-Currently, I am looking for an opportunity to merge my experience in robotics, biosignal processing, machine learning, and in designing and conducting experiments for medical, assistive, and/or rehabilitation applications.
+Currently, I am looking for an opportunity to merge my experience in robotics, biosignal processing, machine learning, and in designing and conducting experiments, for medical, assistive, and/or rehabilitation applications.
 
 
 You can download my CV (French version) [here](/share/Ana_Cruz_CV.pdf).
