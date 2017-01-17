@@ -19,7 +19,7 @@ Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) (Mime
 Currently, I am looking for an opportunity to merge my experience in robotics, biosignal processing, machine learning, and in designing and conducting experiments, for medical, assistive, and/or rehabilitation applications.
 
 
-You can download my CV (French version) [here](/share/Ana_Cruz_CV.pdf).
+You can download my CV (French version) [here](/share/Ana_Cruz_CV_about.pdf).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
