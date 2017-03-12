@@ -17,7 +17,7 @@ Since 2011 I have been living in France following my passion for robotics. I beg
 Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) ([ANR project ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage)), where I worked on designing simple and compact motion controllers for virtual characters via machine learning techniques.
 
 
-You can download my CV [here](/share/ALCR_CV.pdf).
+You can download my CV [here](/share/ALCR__cv.pdf).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
