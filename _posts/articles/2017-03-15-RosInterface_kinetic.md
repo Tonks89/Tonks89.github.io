@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing VREP-RosInterface on Kinetic
-excerpt: "A VREP-RosInterface installation guide."
+excerpt: "A guide for a manual installation."
 modified: 2017-03-01T14:17:25-04:00
 categories: articles
 tags: [sample-post]
