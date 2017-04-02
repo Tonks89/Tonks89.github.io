@@ -21,10 +21,10 @@ insert_title: true
 </figure>
 
 
-The "International Girls in ICT Day is an initiative by the International Telecommunications Union (ITU) that encourages young girls to pursue careers in technology and close the gender gap in the growing field of ICTs (Information and Communications Technology). This truly inspiring day is celebrated the 4th thursday of April by thousands of girls in around 160 countries.
+The "International Girls in ICT Day" is an initiative by the International Telecommunications Union (ITU) that encourages young girls to pursue careers in technology and close the gender gap in the growing field of ICTs (Information and Communications Technology). This truly inspiring day is celebrated the 4th thursday of April by thousands of girls in 160 countries.
  
-In 2016 I was invited to make a presentation at one of these event by the "Comisión Nacional de Telecomunicaciones" (CONATEL), the telecommunications regulatory body in Honduras.
-Among the special guests were the First Lady of Honduras, Mrs. Ana Garcia de Hernandez, representatives from National Congress, Ministry of Education, CODERISE (a colombian organization working on the empowerment of students into tech innovation), various universities, and of course the guests of honor, 100 girls from different technical colleges.
+In 2016, I was invited to make a presentation at one of these events by the "Comisión Nacional de Telecomunicaciones" (CONATEL), the telecommunications regulatory body in Honduras.
+Among the special guests were the First Lady of Honduras, Mrs. Ana Garcia de Hernandez, representatives from National Congress, Ministry of Education, CODERISE (a colombian organization working on the empowerment of students into tech innovation), various universities, and of course, the guests of honor, 100 girls from different technical colleges.
 
 It was a wonderful experience to be able to share my story, dreams, hopes, and struggles with young girls from my home country.
 I talked about my studies and work in robotics, my motivation, the social and personal outreach of technological innovation, and how women are perfectly capable of being key players in today's technological revolution.
