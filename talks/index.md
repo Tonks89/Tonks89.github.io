@@ -33,13 +33,14 @@ I talked about my studies and work in robotics, my motivation, the social and pe
 
 <figure class="half">
 	<img src="../../images/Talks/TIC2016.png" alt="image">
-	<img src="../../images/Talks/MACR.png" alt="image">
+	<img src="../../images/Talks/MACR2.png" alt="image">
 	<figcaption> Me via videoconference speaking to the person that woke up the geek in me, my Dad :) </figcaption>
 </figure>
 
 
-<figure>
-	<img src="../../images/Talks/TicClarion.png" alt="image">
-</figure>
+<figure class="half">
+	<img src="../../images/Talks/TIC2016.png" alt="image">
+	<img src="../../images/Talks/awards.png" alt="image">
+	<figcaption> Me via videoconference speaking to the person that woke up the geek in me, my Dad :) </figcaption>
 
 
