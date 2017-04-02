@@ -15,7 +15,7 @@ insert_title: true
 
 ##  ARACHNIS: A GUI to design and analyze cable-driven robots 
 
-ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs. These workspace are the  Wrench Feasible Workspace (WFW) and the Interference-Free Constant Orientation Workspace (IFCOW). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. On the other hand, the IFCOW is traced via an existing technique for determining the interferences between the moving parts of CDPRs.
+ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs. These workspaces are the  Wrench Feasible Workspace (WFW) and the Interference-Free Constant Orientation Workspace (IFCOW). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. On the other hand, the IFCOW is traced via an existing technique for determining the interferences between the moving parts of CDPRs.
 
 <figure>
 	<a href="/images/cable_robot_interface.jpg"><img src="/images/cable_robot_interface.jpg" alt="image"></a>
