@@ -14,7 +14,7 @@ insert_title: true
 # 2016
 
 * **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A synergy-based control solution for overactuated
-characters: application to throwing"***, accepted: Computer Animation and Virtual Worlds.
+characters: application to throwing"***, Computer Animation and Virtual Worlds, 2016. Doi: [10.1002/cav.1743](http://onlinelibrary.wiley.com/doi/10.1002/cav.1743/abstract).  <a href="https://hal.inria.fr/hal-01377058/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
 * **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Nicolas Pronost, and Georges Dumont. ***"Muscle-based control for character animation"***, Computer Graphics Forum, 2016. Doi: [10.1111/cgf.12863](http://onlinelibrary.wiley.com/doi/10.1111/cgf.12863/full).  <a href="https://hal.inria.fr/hal-01317881/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
