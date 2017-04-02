@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software,  Projects and Manuals
+title: Software,  Projects, and Manuals
 excerpt: "software&projects"
 modified: 2016-06-01T14:07:07-04:00
 insert_logo: true
@@ -15,7 +15,7 @@ insert_title: true
 
 ##  ARACHNIS: A GUI to design and analyze cable-driven robots 
 
-ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs (the  Wrench Feasible Workspace (WFW) and Interference-Free Constant Orientation Workspace (IFCOW)). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. Interferences between the moving parts of a CDPR are  determined by an existing technique for tracing the interference-free workspace of such robots. 
+ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). ARACHNIS takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs. These workspace are the  Wrench Feasible Workspace (WFW) and the Interference-Free Constant Orientation Workspace (IFCOW). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. On the other hand, the IFCOW is traced via an existing technique for determining the interferences between the moving parts of CDPRs.
 
 <figure>
 	<a href="/images/cable_robot_interface.jpg"><img src="/images/cable_robot_interface.jpg" alt="image"></a>
@@ -49,7 +49,7 @@ Coming soon!
 
 ##  A 3 DOF PPR parallel robot
 
-This project consisted in designing a parallel robot for assembly operations with a mobility of two translations and one rotation. Such mechanism can also be referred to as a cylindrical parallel mechanism, and is usually employed in machining operations. To comply with the desired assembly task and motion pattern, the mechanism was designed according to the following priorities:
+This project consisted in designing a parallel robot for assembly operations with a mobility of two translations and one rotation. Such mechanism can also be referred to as a cylindrical parallel mechanism and is usually employed in machining operations. To comply with the desired assembly task and motion pattern, the mechanism was designed according to the following priorities:
 
 Priority 1: Be capable of moving throughout a circular regular positional workspace 
 RPW of diameter 500 mm;  
