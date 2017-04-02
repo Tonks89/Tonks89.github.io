@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-excerpt: "Publications"
+title: Talks
+excerpt: "Talks"
 modified: 2016-06-01T14:07:07-04:00
 insert_logo: true
 insert_title: true
@@ -11,25 +11,35 @@ insert_title: true
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# 2016
+## "International Girls in ICT Day, 2016"
 
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A synergy-based control solution for overactuated
-characters: application to throwing"***, Computer Animation and Virtual Worlds, 2016. Doi: [10.1002/cav.1743](http://onlinelibrary.wiley.com/doi/10.1002/cav.1743/abstract)  <a href="https://hal.inria.fr/hal-01377058/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
+### Organized by the International Telecommunications Union and CONATEL, HONDURAS.
 
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Nicolas Pronost, and Georges Dumont. ***"Muscle-based control for character animation"***, Computer Graphics Forum, 2016. Doi: [10.1111/cgf.12863](http://onlinelibrary.wiley.com/doi/10.1111/cgf.12863/full)  <a href="https://hal.inria.fr/hal-01317881/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
-# 2015 
+<figure>
+	<img src="../../images/Talks/hoizontal_banner_dark_blue.jpg" alt="image">
+</figure>
 
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Jonathan Levy, and Georges Dumont. ***"Motion control via muscle synergies: Application to throwing"***, In Proceedings of the 8th ACM SIGGRAPH Conference on Motion in Games, MIG ’15, pages 65–72. ACM, 2015. Doi: [10.1145/2822013.2822022](http://dl.acm.org/citation.cfm?id=2822022)  <a href="https://hal.inria.fr/hal-01205162/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Anthony Sorel, and Georges Dumont. ***"Identifying representative muscle synergies in overhead football throws"***, Computer Methods in Biomechanics and Biomedical Engineering, 18(sup1):1918–1919, 2015. Doi: [10.1080/10255842.2015.1070581](http://www.tandfonline.com/doi/abs/10.1080/10255842.2015.1070581?journalCode=gcmb20) <a href="https://hal.inria.fr/hal-01174114/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
-# 2014
+The "International Girls in ICT Day is an initiative by the International Telecommunications Union (ITU) that encourages young girls to pursue careers in technology and close the gender gap in the growing field of ICTs (Information and Communications Technology). This truly inspiring day is celebrated the 4th thursday of April by thousands of girls in around 160 countries.
+ 
+In 2016 I was invited to make a presentation at one of these event by the "Comisión Nacional de Telecomunicaciones" (CONATEL), the telecommunications regulatory body in Honduras.
+Among the special guests were the First Lady of Honduras, Mrs. Ana Garcia de Hernandez, representatives from National Congress, Ministry of Education, CODERISE (a colombian organization working on the empowerment of students into tech innovation), various universities, and of course the guests of honor, 100 girls from different technical colleges.
 
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A bio-inspired limb controller for avatar animation"***. Computer methods in biomechanics and biomedical engineering, 17(sup1):174–175, 2014. Doi: [10.1080/10255842.2014.931658](http://www.tandfonline.com/doi/abs/10.1080/10255842.2014.931658?journalCode=gcmb20#.V538H2F95CU) <a href="https://hal.archives-ouvertes.fr/hal-01060284/file/SB2014.pdf" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
-* **Ana Lucia Cruz Ruiz**, Stéphane Caro, Philippe Cardou, François Guay.***"ARACHNIS: Analysis of Robots Actuated by Cables with Handy and Neat Interface Software"***, In Proceedings of the Second International Conference on Cable-Driven Parallel Robots. [Link](http://link.springer.com/chapter/10.1007/978-3-319-09489-2_21#page-1)
+It was a wonderful experience to be able to share my story, dreams, hopes, and struggles with young girls from my home country.
+I talked about my studies and work in robotics, my motivation, the social and personal outreach of technological innovation, and how women are perfectly capable of being key players in today's technological revolution.
 
-# 2013
+[Here](http://www.itu.int/es/ITU-D/Digital-Inclusion/Women-and-Girls/Girls-in-ICT-Portal/Pages/events/2016/Americas/Honduras-2016-2.aspx) is a summary of the event by the ITU, and some [pictures](http://www.conatel.gob.hn/?p=1681#prettyphoto[group]/4/) courtesy of CONATEL.
 
-*  François Guay, Philippe Cardou, **Ana Lucia Cruz Ruiz**, Stéphane Caro. ***"Measuring how well a structure supports varying external wrenches"***, In Proceedings of the Second Conference in New Advances in Mechanisms, Transmissions and Applications. [Link](http://link.springer.com/chapter/10.1007/978-94-007-7485-8_47)
+<figure class="half">
+	<img src="../../images/Talks/TIC2016.png" alt="image">
+	<img src="../../images/Talks/MACR.png" alt="image">
+	<figcaption> Me via videoconference speaking to the person that woke up the geek in me, my Dad :) </figcaption>
+</figure>
+
+
+<figure>
+	<img src="../../images/Talks/TicClarion.png" alt="image">
+</figure>
 
 
