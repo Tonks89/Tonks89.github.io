@@ -14,14 +14,14 @@ insert_title: true
 # 2016
 
 * **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A synergy-based control solution for overactuated
-characters: application to throwing"***, Computer Animation and Virtual Worlds, 2016. Doi: [10.1002/cav.1743](http://onlinelibrary.wiley.com/doi/10.1002/cav.1743/abstract).  <a href="https://hal.inria.fr/hal-01377058/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
+characters: application to throwing"***, Computer Animation and Virtual Worlds, 2016. Doi: [10.1002/cav.1743](http://onlinelibrary.wiley.com/doi/10.1002/cav.1743/abstract)  <a href="https://hal.inria.fr/hal-01377058/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Nicolas Pronost, and Georges Dumont. ***"Muscle-based control for character animation"***, Computer Graphics Forum, 2016. Doi: [10.1111/cgf.12863](http://onlinelibrary.wiley.com/doi/10.1111/cgf.12863/full).  <a href="https://hal.inria.fr/hal-01317881/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
+* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Nicolas Pronost, and Georges Dumont. ***"Muscle-based control for character animation"***, Computer Graphics Forum, 2016. Doi: [10.1111/cgf.12863](http://onlinelibrary.wiley.com/doi/10.1111/cgf.12863/full)  <a href="https://hal.inria.fr/hal-01317881/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
 # 2015 
 
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Jonathan Levy, and Georges Dumont. ***"Motion control via muscle synergies: Application to throwing"***, In Proceedings of the 8th ACM SIGGRAPH Conference on Motion in Games, MIG ’15, pages 65–72. ACM, 2015. Doi: [10.1145/2822013.2822022](http://dl.acm.org/citation.cfm?id=2822022).  <a href="https://hal.inria.fr/hal-01205162/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
-* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Anthony Sorel, and Georges Dumont. ***"Identifying representative muscle synergies in overhead football throws"***, Computer Methods in Biomechanics and Biomedical Engineering, 18(sup1):1918–1919, 2015. Doi: [10.1080/10255842.2015.1070581](http://www.tandfonline.com/doi/abs/10.1080/10255842.2015.1070581?journalCode=gcmb20). <a href="https://hal.inria.fr/hal-01174114/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
+* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Jonathan Levy, and Georges Dumont. ***"Motion control via muscle synergies: Application to throwing"***, In Proceedings of the 8th ACM SIGGRAPH Conference on Motion in Games, MIG ’15, pages 65–72. ACM, 2015. Doi: [10.1145/2822013.2822022](http://dl.acm.org/citation.cfm?id=2822022)  <a href="https://hal.inria.fr/hal-01205162/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
+* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, Anthony Sorel, and Georges Dumont. ***"Identifying representative muscle synergies in overhead football throws"***, Computer Methods in Biomechanics and Biomedical Engineering, 18(sup1):1918–1919, 2015. Doi: [10.1080/10255842.2015.1070581](http://www.tandfonline.com/doi/abs/10.1080/10255842.2015.1070581?journalCode=gcmb20) <a href="https://hal.inria.fr/hal-01174114/document" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
 
 # 2014
 
