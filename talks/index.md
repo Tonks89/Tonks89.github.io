@@ -32,15 +32,15 @@ I talked about my studies and work in robotics, my motivation, the social and pe
 [Here](http://www.itu.int/es/ITU-D/Digital-Inclusion/Women-and-Girls/Girls-in-ICT-Portal/Pages/events/2016/Americas/Honduras-2016-2.aspx) is a summary of the event by the ITU, and some [pictures](http://www.conatel.gob.hn/?p=1681#prettyphoto[group]/4/) courtesy of CONATEL.
 
 <figure class="half">
-	<img src="../../images/Talks/TIC2016.png" alt="image">
+	<img src="../../images/Talks/Me.png" alt="image">
 	<img src="../../images/Talks/MACR2.png" alt="image">
 	<figcaption> Me via videoconference speaking to the person that woke up the geek in me, my Dad :) </figcaption>
 </figure>
 
 
 <figure class="half">
-	<img src="../../images/Talks/TIC2016.png" alt="image">
+	<img src="../../images/Talks/TicClarion.png" alt="image">
 	<img src="../../images/Talks/awards.png" alt="image">
-	<figcaption> Me via videoconference speaking to the person that woke up the geek in me, my Dad :) </figcaption>
+
 
 
