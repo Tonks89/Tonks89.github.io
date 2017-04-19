@@ -14,21 +14,22 @@ share: true
 ---
 
 If you are getting started with robot control simulations, then you might be interested in using ROS alongside a robot simulator like Coppelia's V-REP.
-ROS (Robot Operating System) is an open source framework for robot software development that allows a great number of executables to run in parallel and exchange data (synchronously or asynchronously). This is an essential capability needed when simulating or working with real robots since robot functionalities and tasks (e.g., localisation, object detection, grasping), can be defined as executables that interact with each other.
+ROS (Robot Operating System) is an open source framework for robot software development that allows a great number of executables to run in parallel and exchange data (synchronously or asynchronously). This is an essential capability when simulating or working with real robots, since robot functionalities and tasks (e.g., localisation, object detection, grasping) can be defined as executables that interact with each other.
 
-THe RosInterface is a plugin which interfaces ROS and V-REP allowing the user to write algorithms that are implemented on virtual robots. The interface was developed by Federico Ferri, and is part of the V-REP API framework.
+The RosInterface is a plugin which interfaces ROS and V-REP allowing the user to write algorithms that are implemented on virtual robots. The interface was developed by Federico Ferri, and is part of the V-REP API framework.
 
 The following tutorial walks you through the manual installation of this interface with ROS kinetic.
 
 
 ## 1. Install the required software
-Before installing the interface you will need to make sure you have the follwing:
+Before installing the interface you will need to make sure you have the following:
 * ROS kinetic
 * C++ compiler
 * V-REP Stubs generator (v_repStubsGen)
     * Python interpreter (2.7 or greater)
     * lxml package for Python
-    * tempita package for Python  
+    * tempita package for Python 
+
 (Note: This tutorial assumes you already have a C++ compiler)
 
 
@@ -39,7 +40,7 @@ $ sudo apt-get install -y ros-kinetic-desktop-full git cmake python-tempita pyth
 ```
 
 
-### b) Now, install the V-REP Stubs generator
+### b) Install the V-REP Stubs generator
 
 ```shell 
 $ cd /home/user/Software/vrep_ros_interface 
@@ -52,7 +53,7 @@ Check your installation: You should see v_repStubsGen listed by typing:
 $ ls
 ```
 
-### c) Add its path to search path for importing python modules
+### c) Add its path to the search path for importing python modules
 
 ```shell 
 $ export PYTHONPATH=$PYTHONPATH:$PWD
@@ -94,7 +95,7 @@ You should see the vrep_ros_interface listed by typing:
 $ ls
 ```
 
-Now, build the workspace:
+Next, build the workspace:
 ```shell
 $ catkin build
 ```
@@ -132,7 +133,7 @@ $ cp -iv devel/lib/libv_repExtRosInterface.so "$VREP_ROOT/"
 
 Where  "VREP_ROOT" contains the path of your vrep installation folder. You can create this variable as follows:
 
-* Add "VREP_ROOT" in bash:
+* Add "VREP_ROOT" in the bash:
     
     ```shell
     $ gedit ~/.bashrc &
