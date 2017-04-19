@@ -14,9 +14,14 @@ share: true
 ---
 
 If you are getting started with robot control simulations, then you might be interested in using ROS alongside a robot simulator like Coppelia's V-REP.
+
 ROS (Robot Operating System) is an open source framework for robot software development that allows a great number of executables to run in parallel and exchange data (synchronously or asynchronously). This is an essential capability when simulating or working with real robots, since robot functionalities and tasks (e.g., localisation, object detection, grasping) can be defined as executables that interact with each other.
 
-The RosInterface is a plugin which interfaces ROS and V-REP allowing the user to write algorithms that are implemented on virtual robots. The interface was developed by Federico Ferri, and is part of the V-REP API framework.
+The RosInterface is a plugin which interfaces ROS and V-REP allowing the user to write algorithms to control virtual robots. The interface was developed by Federico Ferri, and is part of the V-REP API framework.
+
+This plugin
+
+(in the v-rep folder you can find the plugin for ros indigo, ready to be used. However, this plugin does not work in ros kinetic, therefore you will have to build the plugin from source)
 
 The following tutorial walks you through the manual installation of this interface with ROS kinetic.
 
@@ -40,25 +45,19 @@ $ sudo apt-get install -y ros-kinetic-desktop-full git cmake python-tempita pyth
 ```
 
 
-### b) Install the V-REP Stubs generator
+### b) Clone the V-REP Stubs generator
+
+Clone this repository in the directory of your choice.
 
 ```shell 
-$ cd /home/user/Software/vrep_ros_interface 
-
 $ git clone -q https://github.com/fferri/v_repStubsGen.git
 ```
 
-Check your installation: You should see v_repStubsGen listed by typing:
-```shell 
-$ ls
-```
 
 ### c) Add its path to the search path for importing python modules
 
 ```shell 
 $ export PYTHONPATH=$PYTHONPATH:$PWD
-
-$ echo $PYTHONPATH 
 ```
 
 ## 2. Create a temporary catkin workspace
@@ -89,11 +88,6 @@ $ cd src/
 
 $ git clone https://github.com/fferri/v_repExtRosInterface.git vrep_ros_interface
 ```
-You should see the vrep_ros_interface listed by typing:
-
-```shell
-$ ls
-```
 
 Next, build the workspace:
 ```shell
@@ -120,20 +114,15 @@ You should see a library called "libv_repExtRosInterface.so"
 ## 6. Source the workspace
 
 ```shell
-$ cd ..
-$ cd ..
+$ cd ../..
 $ source devel/setup.bash
 ```
 
 ## 7. Copy the library in your V-REP installation folder
 
-```shell
-$ cp -iv devel/lib/libv_repExtRosInterface.so "$VREP_ROOT/"
-```
+First, create a variable called "VREP_ROOT" containing the path of your vrep installation folder as follows:
 
-Where  "VREP_ROOT" contains the path of your vrep installation folder. You can create this variable as follows:
-
-* Add "VREP_ROOT" in the bash:
+* Open the bashrc with gedit:
     
     ```shell
     $ gedit ~/.bashrc &
@@ -156,12 +145,27 @@ Where  "VREP_ROOT" contains the path of your vrep installation folder. You can c
     ```shell
     $ echo $VREP_ROOT   
     ```
+    
+Finally, copy the library in the V-REP folder:
+
+```shell
+$ cp -iv devel/lib/libv_repExtRosInterface.so "$VREP_ROOT/"
+```
 
 
 ## 8. Run one of VREP’s simulation scenes/models
 
-(Note: roscore should be running before you open V-REP)
+Open a new terminal and launch roscore:
+```shell
+$ roscore
+```
 
+Open another terminal and launch V-REP:
+```shell
+$ ./vrep.sh
+```
+
+Finally, use one of the followin predefined scenes to explore to check if the plugin is working:
 * rosInterfaceTopicPublisherAndSubscriber.ttt 
 * controlTypeExamples.ttt (focus on the bright red robot) 
 
