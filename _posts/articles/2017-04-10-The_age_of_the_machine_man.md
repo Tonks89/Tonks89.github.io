@@ -26,11 +26,17 @@ One of the most inspiring people working on the design of bionic limbs is MIT Pr
 
 <figure>
 	<img src="../../images/posts/The_age_of_the_machine_man/WiredHughHerr.jpg" alt="image">
-	<figcaption> Hugh Herr on the cover of Wired magazine with American athlete Amy Mullins </figcaption>
+	<figcaption> Hugh Herr on the cover of Wired magazine with American athlete Amy Mullins. </figcaption>
 </figure>
 
 Before becoming mechanical engineer and biophysicist, he was one of the best rock climbers in the U.S. However, while ascending Mount Washington in New Hampshire, Herr and his partner got lost and endured three nights at freezing temperatures. Herr lost both of his legs to severe frostbite.
 Today, he wears bionic limbs that perform better that his biological legs. He has created narrow-edged feet capable of climbing rock fixtures where the human foot cannot penetrate, spiked feet for climbing vertical ice walls, and most importantly bionic lower leg limbs. His [BiOM Ankle system](http://www.bionxmed.com/payer/the-biom-advantage/) is the world’s first bionic lower leg and also the first prosthesis allowing its users to achieve normal walking speeds and energy expenditure levels. This system is composed of mechanical components (representing the skeleton and muscles), electrical components (allowing the communication of the biological and bionic body), sensors placed on key places on the amputated limb (to sense the user’s motion intention), and finally, computer chips (to control the bionic limb according to the user’s intention).
+
+<figure class="half">
+	<img src="../../images/posts/The_age_of_the_machine_man/ice-climber-no-legs.jpg" alt="image">
+	<img src="../../images/posts/The_age_of_the_machine_man/BIom.jpg" alt="image">
+	<figcaption> (Left) Hugh Herr climbing with prosthetic legs. (Right) Hugh Herr wearing the BiOM Ankle system at his TED talk. </figcaption>
+</figure>
 
 Bionic limbs that move like flesh and bone. Mind blowing right? But what about, bionic limbs that actually “feel” like flesh and bone?.
 Researchers in Switzerland and Italy have been working on establishing a two-way communication between bionic limbs and the biological body. Two-way, meaning that the biological body can send commands to the bionic limbs and these, in turn, can send sensations to the biological body. And no, this is not an Asimov or Star Wars story, this is the work of Prof. [Silvestro Micera](http://cnp.epfl.ch/Miceralab) and his team at the [EPFL Center for Neuroprosthetics](http://cnp.epfl.ch/) (Switzerland) and [SSSA](https://www.santannapisa.it/en) (Italy). This team created a [sensory feedback](https://actu.epfl.ch/news/amputee-feels-in-real-time-with-bionic-hand/) that allows amputees to feel the objects they grasp with their bionic hand. Amputees can feel the hardness or softness of objects and even their shapes. To produce this feedback, first, sensors on the bionic hand measure the level of force exerted on the object. Then, this force is transformed into an electrical current that is sent to electrodes implanted on the user’s nerves. Finally, the transmission of this information restores the sense of hand touch in the nervous system.
