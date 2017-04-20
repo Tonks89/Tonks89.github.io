@@ -77,4 +77,11 @@ Bionic limbs that can be controlled with the mind? That can be used to feel? And
 These are just a few examples of today’s global efforts to overcome disability via technological innovation. And although the fictional ambiance surrounding bionic devices could lead you to think that they are constrained to labs and clinics, you should know that thousands of people are being equipped with them.
 Bionics has given amputees the ability to walk, run, jump, climb, dance, grasp, and even feel. The success of this devices is not only being celebrated and challenged in “everyday life” but also in athletic arenas, such as ETH Zurich’s [Cybathlon](http://www.cybathlon.ethz.ch/). An event where athletes with disabilities or physical weaknesses compete against each other using state-of-the-art robotic technology.
 
+<figure class="half">
+	<img src="../../images/posts/The_age_of_the_machine_man/cybathlon1.jpg" alt="image">
+	<img src="../../images/posts/The_age_of_the_machine_man/cybathlon2.jpg" alt="image">
+	<figcaption> (Left) Powered Leg Prosthesis Race. (Right) Powered Arm Prosthesis Race (Photos courtesy of Cybathlon). </figcaption>
+</figure>
+
+
 So, how far are we from making Asimov’s or George Lucas’ fantasies a reality? Bionics research is clearly gaining momentum, and as Hugh Herr said: “Someday soon, these kinds of devices will be no more unusual than a pair of glasses.” Until then, let’s embrace the beginning of the age of the machine man.
