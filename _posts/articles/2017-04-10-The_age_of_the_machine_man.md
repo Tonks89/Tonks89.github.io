@@ -57,7 +57,21 @@ This solution might seem straightforward. However, a considerable amount of work
 
 Another important aspect of bionic limbs is how they communicate with the human body. This communication is essential to ensure the transmission of the right instructions and sensations. To achieve this, there is a need for an intimate physical integration between man and machine.
 Such an integration implies an internal and long-lasting connection between the bionic limb’s circuitry and mechanical components and the human skeletal and nervous system.
-Fortunately, researchers at [Chalmers University of Technology](http://www.chalmers.se/en/Pages/default.aspx), in Sweden, are making giant steps in this area with the creation of a [bionic arm](https://www.chalmers.se/en/news/Pages/Mind-controlled-prosthetic-arms-that-work-in-daily-life-are-now-a-reality.aspx) that is directly connected to the user’s bones, nerves, and muscles. As stated by [Max Ortiz Catalan](http://www.chalmers.se/en/staff/Pages/max-jair-ortiz-catalan.aspx), the team’s lead research scientist, this project achieved a stable fusion between man and machine by integrating them at different levels. At the skeletal level, this integration was made through “osseointegration”, a technology allowing the connection of the living bone to the artificial arm. While at the nervous and muscular level, the integration was possible thanks to neuromuscular electrodes, sensors which connect the bionic arm’s control system to the user’s nerves and muscles.  A few scientists have achieved an internal integration at this level. However, this work is a breakthrough due to its demonstrated stable and long-term use by an amputee (over a year).
+Fortunately, researchers at [Chalmers University of Technology](http://www.chalmers.se/en/Pages/default.aspx), in Sweden, are making giant steps in this area with the creation of a [bionic arm](https://www.chalmers.se/en/news/Pages/Mind-controlled-prosthetic-arms-that-work-in-daily-life-are-now-a-reality.aspx) that is directly connected to the user’s bones, nerves, and muscles. 
+
+<figure class="half">
+	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated01.jpg" alt="image">
+	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated0.jpg" alt="image">
+	<figcaption> (Left) Magnus Niska (wearing the bionic arm) and Max Ortiz Catalán. (Right) Magnus Niska performing everyday tasks thanks to the bionic arm. </figcaption>
+</figure>
+
+
+As stated by [Max Ortiz Catalán](http://www.chalmers.se/en/staff/Pages/max-jair-ortiz-catalan.aspx), the team’s lead research scientist, this project achieved a stable fusion between man and machine by integrating them at different levels. At the skeletal level, this integration was made through “osseointegration”, a technology allowing the connection of the living bone to the artificial arm. While at the nervous and muscular level, the integration was possible thanks to neuromuscular electrodes, sensors which connect the bionic arm’s control system to the user’s nerves and muscles.  A few scientists have achieved an internal integration at this level. However, this work is a breakthrough due to its demonstrated stable and long-term use by an amputee (over a year).
+
+<figure>
+	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated1.jpg" alt="image">
+	<figcaption> Diagram depicting the integration of the bionic arm into the user's bone and the electrodes attached to his remaining muscles and nerves. Note that although the electrodes remain within the body, the bionic arm can be detached from the body at anytime. </figcaption>
+</figure>
 
 Bionic limbs that can be controlled with the mind? That can be used to feel? And that can be integrated into our bodies?
 These are just a few examples of today’s global efforts to overcome disability via technological innovation. And although the fictional ambiance surrounding bionic devices could lead you to think that they are constrained to labs and clinics, you should know that thousands of people are being equipped with them.
