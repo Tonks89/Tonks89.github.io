@@ -29,7 +29,7 @@ One of the most inspiring people working on the design of bionic limbs is MIT Pr
 	<figcaption> Hugh Herr on the cover of Wired magazine with American athlete Amy Mullins (Photo courtesy of Wired magazine). </figcaption>
 </figure>
 
-Before becoming mechanical engineer and biophysicist, he was one of the best rock climbers in the U.S. However, while ascending Mount Washington in New Hampshire, Herr and his partner got lost and endured three nights at freezing temperatures. Herr lost both of his legs to severe frostbite.
+Before becoming a mechanical engineer and biophysicist, he was one of the best rock climbers in the U.S. However, while ascending Mount Washington in New Hampshire, Herr and his partner got lost and endured three nights at freezing temperatures. Herr lost both of his legs to severe frostbite.
 Today, he wears bionic limbs that perform better that his biological legs. He has created narrow-edged feet capable of climbing rock fixtures where the human foot cannot penetrate, spiked feet for climbing vertical ice walls, and most importantly bionic lower leg limbs. His [BiOM Ankle system](http://www.bionxmed.com/payer/the-biom-advantage/) is the world’s first bionic lower leg and also the first prosthesis allowing its users to achieve normal walking speeds and energy expenditure levels. This system is composed of mechanical components (representing the skeleton and muscles), electrical components (allowing the communication of the biological and bionic body), sensors placed on key places on the amputated limb (to sense the user’s motion intention), and finally, computer chips (to control the bionic limb according to the user’s intention).
 
 <figure class="half">
@@ -64,7 +64,7 @@ Fortunately, researchers at [Chalmers University of Technology](http://www.chalm
 <figure class="half">
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated0.jpg" alt="image">
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated02.jpg" alt="image">
-	<figcaption> (Left) Magnus Niska performing everyday tasks thanks to the bionic arm. (Right) Note that although the electrodes remain within the body, the bionic arm can be detached from the body at anytime (Photos courtesy of Chalmers University of Technology). </figcaption>
+	<figcaption> (Left) Magnus Niska performing everyday tasks thanks to the bionic arm. (Right) The bionic arm can be detached from the body at anytime (Photos courtesy of Chalmers University of Technology). </figcaption>
 </figure>
 
 
