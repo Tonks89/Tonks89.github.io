@@ -60,9 +60,9 @@ Such an integration implies an internal and long-lasting connection between the 
 Fortunately, researchers at [Chalmers University of Technology](http://www.chalmers.se/en/Pages/default.aspx), in Sweden, are making giant steps in this area with the creation of a [bionic arm](https://www.chalmers.se/en/news/Pages/Mind-controlled-prosthetic-arms-that-work-in-daily-life-are-now-a-reality.aspx) that is directly connected to the user’s bones, nerves, and muscles. 
 
 <figure class="half">
-	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated01.jpg" alt="image">
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated0.jpg" alt="image">
-	<figcaption> (Left) Magnus Niska (wearing the bionic arm) and Max Ortiz Catalán. (Right) Magnus Niska performing everyday tasks thanks to the bionic arm. </figcaption>
+	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated02.jpg" alt="image">
+	<figcaption> (Left) Magnus Niska performing everyday tasks thanks to the bionic arm. (Right) Note that although the electrodes remain within the body, the bionic arm can be detached from the body at anytime. </figcaption>
 </figure>
 
 
@@ -70,7 +70,7 @@ As stated by [Max Ortiz Catalán](http://www.chalmers.se/en/staff/Pages/max-jair
 
 <figure>
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated1.jpg" alt="image">
-	<figcaption> Diagram depicting the integration of the bionic arm into the user's bone and the electrodes attached to his remaining muscles and nerves. Note that although the electrodes remain within the body, the bionic arm can be detached from the body at anytime. </figcaption>
+	<figcaption> Diagram depicting the integration of the bionic arm into the user's bone and the electrodes attached to his remaining muscles and nerves.  </figcaption>
 </figure>
 
 Bionic limbs that can be controlled with the mind? That can be used to feel? And that can be integrated into our bodies?
