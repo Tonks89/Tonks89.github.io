@@ -11,7 +11,7 @@ insert_title: true
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## "International Girls in ICT Day, 2016"
+## International Girls in ICT Day (2016)
 
 #### Organized by the International Telecommunications Union and CONATEL, HONDURAS.
 
@@ -44,3 +44,20 @@ I talked about my studies and work in robotics, my motivation, the social and pe
 
 
 
+
+## Solo Guapas"
+
+#### Organized by the Universidad Tecnologica Centroamericana (UNITEC) and IEEE Women in Engineering.
+
+
+<figure>
+	<img src="../../images/Talks/WIE.jpg" alt="image">
+</figure>
+
+
+“Solo Guapas” (or “Only beautiful”) was an event organized by the faculty of engineering and architecture of the Universidad Tecnologica Centroamericana (UNITEC) and IEEE Women in Engineering, an international organization which promotes women engineers and scientists and motivates young girls to pursue careers in technology. The objective of this event was to inspire female engineering students to persevere in their studies through the example and experience of successful Honduran women.
+
+Having studied mechatronics at UNITEC and having experienced the popular stereotypes of being a girl in a male-dominated field, I was thrilled to be an invited speaker. I talked about the road I traveled from when I first saw the ASIMO robot on T.V and thought, “OK, robots seem cool!”, to my high school research papers on robots and space stations, to my endless pursuit of a scholarship to study robotics, and finally, to the moment I became a robotics engineer.
+
+During this journey, I didn’t have someone else’s experience to relate to. I didn’t know of anyone other women from my country with the same dreams or social and financial setbacks. I persevered, but I truly believe that knowledge that others have walked the same footsteps is a motivation catalyzer. Thus, the importance of showing girls that they have options, that they can also become engineers, scientists, and doctors. And that, like other women, they can thrive.
+Here is a video (in Spanish) that I prepared for the event.
