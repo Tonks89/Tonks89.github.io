@@ -31,7 +31,7 @@ Among the special guests were the First Lady of Honduras, Mrs. Ana Garcia de Her
 It was a wonderful experience to be able to share my story, dreams, hopes, and struggles with young girls from my home country.
 I talked about my studies and work in robotics, my motivation, the social and personal outreach of technological innovation, and how women are perfectly capable of being key players in today's technological revolution.
 
-[Here](http://www.itu.int/es/ITU-D/Digital-Inclusion/Women-and-Girls/Girls-in-ICT-Portal/Pages/events/2016/Americas/Honduras-2016-2.aspx) is a summary of the event by the ITU, some [pictures](http://www.conatel.gob.hn/?p=1681#prettyphoto[group]/4/) courtesy of CONATEL, and the videos I prepared for the event:
+[Here](http://www.itu.int/es/ITU-D/Digital-Inclusion/Women-and-Girls/Girls-in-ICT-Portal/Pages/events/2016/Americas/Honduras-2016-2.aspx) is a summary of the event by the ITU. Below, you will find some [pictures](http://www.conatel.gob.hn/?p=1681#prettyphoto[group]/4/) (courtesy of CONATEL), and the videos I prepared for the event:
 
 ###### Pictures
 
