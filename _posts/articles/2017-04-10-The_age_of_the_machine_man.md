@@ -39,8 +39,21 @@ Today, he wears bionic limbs that perform better that his biological legs. He ha
 </figure>
 
 Bionic limbs that move like flesh and bone. Mind blowing right? But what about, bionic limbs that actually “feel” like flesh and bone?.
-Researchers in Switzerland and Italy have been working on establishing a two-way communication between bionic limbs and the biological body. Two-way, meaning that the biological body can send commands to the bionic limbs and these, in turn, can send sensations to the biological body. And no, this is not an Asimov or Star Wars story, this is the work of Prof. [Silvestro Micera](http://cnp.epfl.ch/Miceralab) and his team at the [EPFL Center for Neuroprosthetics](http://cnp.epfl.ch/) (Switzerland) and [SSSA](https://www.santannapisa.it/en) (Italy). This team created a [sensory feedback](https://actu.epfl.ch/news/amputee-feels-in-real-time-with-bionic-hand/) that allows amputees to feel the objects they grasp with their bionic hand. Amputees can feel the hardness or softness of objects and even their shapes. To produce this feedback, first, sensors on the bionic hand measure the level of force exerted on the object. Then, this force is transformed into an electrical current that is sent to electrodes implanted on the user’s nerves. Finally, the transmission of this information restores the sense of hand touch in the nervous system.
+Researchers in Switzerland and Italy have been working on establishing a two-way communication between bionic limbs and the biological body. Two-way, meaning that the biological body can send commands to the bionic limbs and these, in turn, can send sensations to the biological body. And no, this is not an Asimov or Star Wars story, this is the work of Prof. [Silvestro Micera](http://cnp.epfl.ch/Miceralab) and his team at the [EPFL Center for Neuroprosthetics](http://cnp.epfl.ch/) (Switzerland) and [SSSA](https://www.santannapisa.it/en) (Italy). This team created a [sensory feedback](https://actu.epfl.ch/news/amputee-feels-in-real-time-with-bionic-hand/) that allows amputees to feel the objects they grasp with their bionic hand. Amputees can feel the hardness or softness of objects and even their shapes. 
+
+<figure>
+	<img src="../../images/posts/The_age_of_the_machine_man/Lifehand1.jpg" alt="image">
+	<figcaption> Dennis Aabo Sørensen was the amputee selected to try this novel bionic hand. Here we can see him grasping and identifying objects while blindfolded. He is the first amputee in the world to feel a rich amount of sensory information through a bionic hand (Photo courtesy of LifeHand 2 / Patrizia Tocci). </figcaption>
+</figure>
+ 
+To produce this feedback, first, sensors on the bionic hand measure the level of force exerted on the object. Then, this force is transformed into an electrical current that is sent to electrodes implanted on the user’s nerves. Finally, the transmission of this information restores the sense of hand touch in the nervous system.
 This solution might seem straightforward. However, a considerable amount of work is devoted to the transformation of the user’s grasping forces into a signal that is understandable by the nervous system. Thus, one of the main contributions of this work is the development of computer algorithms able to make this interpretation.
+
+<figure>
+	<img src="../../images/posts/The_age_of_the_machine_man/lifehand2.jpg" alt="image">
+	<figcaption> Diagram explaining the bionic hand's sensory feedback. First, data is collected from the hand's sensors, then, it is processed to extract the relevant information only. Finally, specialized computer algorithms transform this information into impulses which the nervous system can understand. </figcaption>
+</figure>
+
 
 Another important aspect of bionic limbs is how they communicate with the human body. This communication is essential to ensure the transmission of the right instructions and sensations. To achieve this, there is a need for an intimate physical integration between man and machine.
 Such an integration implies an internal and long-lasting connection between the bionic limb’s circuitry and mechanical components and the human skeletal and nervous system.
