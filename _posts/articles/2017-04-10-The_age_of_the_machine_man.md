@@ -87,7 +87,7 @@ As stated by [Max Ortiz Catalán](http://www.chalmers.se/en/staff/Pages/max-jair
 
 Bionic limbs that can be controlled with the mind? That can be used to feel? And that can be integrated into our bodies?
 These are just a few examples of today’s global efforts to overcome disability via technological innovation. And although the fictional ambiance surrounding bionic devices could lead you to think that they are constrained to labs and clinics, you should know that thousands of people are being equipped with them.
-Bionics has given amputees the ability to walk, run, jump, climb, dance, grasp, and even feel. The success of this devices is not only being celebrated and challenged in “everyday life” but also in athletic arenas, such as ETH Zurich’s [Cybathlon](http://www.cybathlon.ethz.ch/). An event where athletes with disabilities or physical weaknesses compete against each other using state-of-the-art robotic technology.
+Bionics has given amputees the ability to walk, run, jump, climb, dance, grasp, and even feel. The success of these devices is not only being celebrated and challenged in “everyday life” but also in athletic arenas, such as ETH Zurich’s [Cybathlon](http://www.cybathlon.ethz.ch/). An event where athletes with disabilities or physical weaknesses compete against each other using state-of-the-art robotic technology.
 
 <center>
 <figure class="half">
