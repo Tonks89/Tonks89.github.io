@@ -80,7 +80,7 @@ Bionics has given amputees the ability to walk, run, jump, climb, dance, grasp, 
 <figure class="half">
 	<img src="../../images/posts/The_age_of_the_machine_man/cybathlon1.jpg" alt="image">
 	<img src="../../images/posts/The_age_of_the_machine_man/cybathlon2.jpg" alt="image">
-	<figcaption> (Left) Powered Leg Prosthesis Race. (Right) Powered Arm Prosthesis Race (Photos courtesy of Cybathlon). </figcaption>
+	<figcaption> (Left) Powered leg prosthesis race. (Right) Powered arm prosthesis race (Photos courtesy of Cybathlon). </figcaption>
 </figure>
 
 
