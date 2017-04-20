@@ -69,7 +69,7 @@ A video I prepared featuring fantastic women I’ve met, whose experiences speak
 </center>
 
 
-“Solo Guapas” (or “Only beautiful”) was an event organized by the faculty of engineering and architecture of the Universidad Tecnologica Centroamericana (UNITEC) and IEEE [Women in Engineering](http://wie.ieee.org/), an international organization which promotes women engineers and scientists and motivates young girls to pursue careers in technology. The objective of this event was to inspire female engineering students to persevere in their studies through the example and experience of successful Honduran women.
+“Solo Guapas” (or “Only beautiful”) was an event organized by the faculty of engineering and architecture of the [Universidad Tecnologica Centroamericana](http://www.unitec.edu/) (UNITEC) and IEEE [Women in Engineering](http://wie.ieee.org/), an international organization which promotes women engineers and scientists and motivates young girls to pursue careers in technology. The objective of this event was to inspire female engineering students to persevere in their studies through the example and experience of successful Honduran women.
 
 Having studied mechatronics at UNITEC and having experienced the popular stereotypes of being a girl in a male-dominated field, I was thrilled to be an invited speaker. I talked about the road I traveled from when I first saw the ASIMO robot on T.V and thought, “OK, robots seem cool!”, to my high school research papers on robots and space stations, to my endless pursuit of a scholarship to study robotics, and finally, to the moment I became a robotics engineer.
 
