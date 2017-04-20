@@ -45,14 +45,15 @@ I talked about my studies and work in robotics, my motivation, the social and pe
 <figure class="half">
 	<img src="../../images/Talks/audience.png" alt="image">
 	<img src="../../images/Talks/awards.png" alt="image">
+	<figcaption> Audience and award session at the event. </figcaption>
 </figure>
 </center>
 
-A video I presented summarizing my work and motivation: 
-<iframe width="560" height="315" src="//youtu.be/W_nMtnmt-zA" frameborder="0"> </iframe>
+A video I presented summarizing my work and motivation (Spanish): 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_nMtnmt-zA" frameborder="0"></iframe>
 
-A video I prepared featuring fantastic women I’ve met, whose experiences speak “inspiration”.
-<iframe width="560" height="315" src="youtu.be/W6s6d_Sqnu4" frameborder="0"> </iframe>
+A video I prepared featuring fantastic women I’ve met, whose experiences speak “inspiration” (Spanish and English).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W6s6d_Sqnu4" frameborder="0"></iframe>
 
 
 
