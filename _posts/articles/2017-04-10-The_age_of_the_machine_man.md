@@ -72,7 +72,7 @@ As stated by [Max Ortiz Catalán](http://www.chalmers.se/en/staff/Pages/max-jair
 
 <figure>
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated1.jpg" alt="image">
-	<figcaption> Diagram depicting the integration of the bionic arm into the user's bone and the electrodes attached to his remaining muscles and nerves.  </figcaption>
+	<figcaption> Diagram depicting the integration of the bionic arm into the user's bone and the electrodes attached to his remaining muscles and nerves (Photos courtesy of Chalmers University of Technology).  </figcaption>
 </figure>
 
 Bionic limbs that can be controlled with the mind? That can be used to feel? And that can be integrated into our bodies?
