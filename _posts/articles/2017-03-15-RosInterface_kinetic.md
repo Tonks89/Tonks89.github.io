@@ -20,7 +20,7 @@ ROS (Robot Operating System) is an open source framework for robot software deve
 The RosInterface is a plugin which interfaces ROS and V-REP allowing the user to write algorithms to control virtual robots. The interface was developed by Federico Ferri, and is part of the V-REP API framework.
 
 You can find the RosInterface plugin in the V-REP folder, ready to be used with ROS Indigo. Unfortunately, it does not work with ROS Kinetic, which is why you will need to build the plugin from source.
-The following tutorial walks you through the manual installation of this interface for ROS kinetic.
+The following tutorial walks you through the manual installation of this interface for ROS Kinetic.
 
 
 ## 1. Install the required software
@@ -162,7 +162,7 @@ Open another terminal and launch V-REP:
 $ ./vrep.sh
 ```
 
-Finally, use one of the followin predefined scenes to explore to check if the plugin is working:
+Finally, use one of the following predefined scenes to check if the plugin is working:
 * rosInterfaceTopicPublisherAndSubscriber.ttt 
 * controlTypeExamples.ttt (focus on the bright red robot) 
 
