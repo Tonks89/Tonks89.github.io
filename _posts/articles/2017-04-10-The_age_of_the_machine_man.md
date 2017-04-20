@@ -42,8 +42,7 @@ Today, he wears bionic limbs that perform better that his biological legs. He ha
 </figure>
 </center>
 
-Bionic limbs that move like flesh and bone. Mind blowing right? But what about, bionic limbs that actually “feel” like flesh and bone?.
-Researchers in Switzerland and Italy have been working on establishing a two-way communication between bionic limbs and the biological body. Two-way, meaning that the biological body can send commands to the bionic limbs and these, in turn, can send sensations to the biological body. And no, this is not an Asimov or Star Wars story, this is the work of Prof. [Silvestro Micera](http://cnp.epfl.ch/Miceralab) and his team at the [EPFL Center for Neuroprosthetics](http://cnp.epfl.ch/) (Switzerland) and [SSSA](https://www.santannapisa.it/en) (Italy). This team created a [sensory feedback](https://actu.epfl.ch/news/amputee-feels-in-real-time-with-bionic-hand/) that allows amputees to feel the objects they grasp with their bionic hand. Amputees can feel the hardness or softness of objects and even their shapes. 
+Bionic limbs that move like flesh and bone. Mind blowing right? But what about, bionic limbs that actually “feel” like flesh and bone? Researchers in Switzerland and Italy have been working on establishing a two-way communication between bionic limbs and the biological body. Two-way, meaning that the biological body can send commands to the bionic limbs and these, in turn, can send sensations to the biological body. And no, this is not an Asimov or Star Wars story, this is the work of Prof. [Silvestro Micera](http://cnp.epfl.ch/Miceralab) and his team at the [EPFL Center for Neuroprosthetics](http://cnp.epfl.ch/) (Switzerland) and [SSSA](https://www.santannapisa.it/en) (Italy). This team created a [sensory feedback](https://actu.epfl.ch/news/amputee-feels-in-real-time-with-bionic-hand/) that allows amputees to feel the objects they grasp with their bionic hand. Amputees can feel the hardness or softness of objects and even their shapes. 
 
 <center>
 <figure>
@@ -87,7 +86,7 @@ As stated by [Max Ortiz Catalán](http://www.chalmers.se/en/staff/Pages/max-jair
 
 Bionic limbs that can be controlled with the mind? That can be used to feel? And that can be integrated into our bodies?
 These are just a few examples of today’s global efforts to overcome disability via technological innovation. And although the fictional ambiance surrounding bionic devices could lead you to think that they are constrained to labs and clinics, you should know that thousands of people are being equipped with them.
-Bionics has given amputees the ability to walk, run, jump, climb, dance, grasp, and even feel. The success of these devices is not only being celebrated and challenged in “everyday life” but also in athletic arenas, such as ETH Zurich’s [Cybathlon](http://www.cybathlon.ethz.ch/). An event where athletes with disabilities or physical weaknesses compete against each other using state-of-the-art robotic technology.
+Bionics has given amputees the ability to walk, run, jump, climb, dance, grasp, and even feel. Furthermore, the success of these devices is not only being celebrated and challenged in “everyday life” but also in athletic arenas, such as ETH Zurich’s [Cybathlon](http://www.cybathlon.ethz.ch/). An event where athletes with disabilities or physical weaknesses compete against each other using state-of-the-art robotic technology.
 
 <center>
 <figure class="half">
