@@ -26,7 +26,7 @@ One of the most inspiring people working on the design of bionic limbs is MIT Pr
 
 <figure>
 	<img src="../../images/posts/The_age_of_the_machine_man/WiredHughHerr.jpg" alt="image">
-	<figcaption> Hugh Herr on the cover of Wired magazine with American athlete Amy Mullins. </figcaption>
+	<figcaption> Hugh Herr on the cover of Wired magazine with American athlete Amy Mullins (Photo courtesy of Wired magazine). </figcaption>
 </figure>
 
 Before becoming mechanical engineer and biophysicist, he was one of the best rock climbers in the U.S. However, while ascending Mount Washington in New Hampshire, Herr and his partner got lost and endured three nights at freezing temperatures. Herr lost both of his legs to severe frostbite.
@@ -35,23 +35,25 @@ Today, he wears bionic limbs that perform better that his biological legs. He ha
 <figure class="half">
 	<img src="../../images/posts/The_age_of_the_machine_man/ice-climber-no-legs.jpg" alt="image">
 	<img src="../../images/posts/The_age_of_the_machine_man/BIom.jpg" alt="image">
-	<figcaption> (Left) Hugh Herr climbing with prosthetic legs. (Right) Hugh Herr wearing the BiOM Ankle system at his TED talk. </figcaption>
+	<figcaption> (Left) Hugh Herr climbing with prosthetic legs (Photo courtesy of Wired magazine). (Right) Hugh Herr wearing the BiOM Ankle system at his TED talk (Photo courtesy of TED). </figcaption>
 </figure>
 
 Bionic limbs that move like flesh and bone. Mind blowing right? But what about, bionic limbs that actually “feel” like flesh and bone?.
 Researchers in Switzerland and Italy have been working on establishing a two-way communication between bionic limbs and the biological body. Two-way, meaning that the biological body can send commands to the bionic limbs and these, in turn, can send sensations to the biological body. And no, this is not an Asimov or Star Wars story, this is the work of Prof. [Silvestro Micera](http://cnp.epfl.ch/Miceralab) and his team at the [EPFL Center for Neuroprosthetics](http://cnp.epfl.ch/) (Switzerland) and [SSSA](https://www.santannapisa.it/en) (Italy). This team created a [sensory feedback](https://actu.epfl.ch/news/amputee-feels-in-real-time-with-bionic-hand/) that allows amputees to feel the objects they grasp with their bionic hand. Amputees can feel the hardness or softness of objects and even their shapes. 
 
+<center>
 <figure>
 	<img src="../../images/posts/The_age_of_the_machine_man/Lifehand1.jpg" alt="image">
 	<figcaption> Dennis Aabo Sørensen was the amputee selected to try this novel bionic hand. Here we can see him grasping and identifying objects while blindfolded. He is the first amputee in the world to feel a rich amount of sensory information through a bionic hand (Photo courtesy of LifeHand 2 / Patrizia Tocci). </figcaption>
 </figure>
+</center>
  
 To produce this feedback, first, sensors on the bionic hand measure the level of force exerted on the object. Then, this force is transformed into an electrical current that is sent to electrodes implanted on the user’s nerves. Finally, the transmission of this information restores the sense of hand touch in the nervous system.
 This solution might seem straightforward. However, a considerable amount of work is devoted to the transformation of the user’s grasping forces into a signal that is understandable by the nervous system. Thus, one of the main contributions of this work is the development of computer algorithms able to make this interpretation.
 
 <figure>
 	<img src="../../images/posts/The_age_of_the_machine_man/lifehand2.jpg" alt="image">
-	<figcaption> Diagram explaining the bionic hand's sensory feedback. First, data is collected from the hand's sensors, then, it is processed to extract the relevant information only. Finally, specialized computer algorithms transform this information into impulses which the nervous system can understand. </figcaption>
+	<figcaption> Diagram explaining the bionic hand's sensory feedback. First, data is collected from the hand's sensors, then, it is processed to extract the relevant information only. Finally, specialized computer algorithms transform this information into impulses which the nervous system can understand (Photo courtesy of LifeHand 2). </figcaption>
 </figure>
 
 
@@ -62,7 +64,7 @@ Fortunately, researchers at [Chalmers University of Technology](http://www.chalm
 <figure class="half">
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated0.jpg" alt="image">
 	<img src="../../images/posts/The_age_of_the_machine_man/osseointegrated02.jpg" alt="image">
-	<figcaption> (Left) Magnus Niska performing everyday tasks thanks to the bionic arm. (Right) Note that although the electrodes remain within the body, the bionic arm can be detached from the body at anytime. </figcaption>
+	<figcaption> (Left) Magnus Niska performing everyday tasks thanks to the bionic arm. (Right) Note that although the electrodes remain within the body, the bionic arm can be detached from the body at anytime (Photos courtesy of Chalmers University of Technology). </figcaption>
 </figure>
 
 
