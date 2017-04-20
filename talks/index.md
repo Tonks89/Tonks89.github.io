@@ -45,7 +45,7 @@ I talked about my studies and work in robotics, my motivation, the social and pe
 
 
 
-## Solo Guapas"
+## Solo Guapas
 
 #### Organized by the Universidad Tecnologica Centroamericana (UNITEC) and IEEE Women in Engineering.
 
