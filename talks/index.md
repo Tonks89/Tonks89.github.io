@@ -41,7 +41,7 @@ I talked about my studies and work in robotics, my motivation, the social and pe
 <figure class="half">
 	<img src="../../images/Talks/audience.png" alt="image">
 	<img src="../../images/Talks/awards.png" alt="image">
-
+</figure>
 
 
 
