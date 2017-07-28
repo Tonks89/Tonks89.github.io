@@ -13,9 +13,27 @@ insert_title: true
 
 # ROBOT PERCEPTION, DECISION-MAKING, CONTROL
 
-## Autonomous navigation 
+## Pick and place 
 
-### Tools: Python and Unity game engine 
+#### Tools: ROS, Moveit!, Gazebo, Rviz, Python
+
+
+The objective of this project is to write an Inverse Kinematics solver for the KUKA KR210 robot. This solver is responsible for computing the joint angles corresponding to a desired end-effector or gripper trajectory. The algorithm will be tested on pick and place operations, consisting of picking up objects from different locations on a shelf and depositing them on a bin.
+
+<center>
+<figure>
+	<img src="../../images/Software/misc2.png" alt="image">
+	<figcaption> Photo courtesy of Udacity RoboND program. </figcaption>
+</figure>
+</center>
+
+This project is a work in progress, preliminary results will be posted here and in GitHub soon!
+
+
+
+## Search and sample
+
+#### Tools: Python and Unity game engine 
 
 This project was modeled after the "NASA sample return challenge", its objective was to enable a rover to navigate autonmously in an unknown environment by developing its ability perceive and decide. To achieve this, two modules were developed: a perception and ad decision-making module. The perception module was used to detect obstacles, rocks (sample of interest), and navigable terrain based on computer vision techniques such as perpective transform, color space transformation, thresholding and distortion reduction. The following video shows how the rover is able to perceive the navigable terrain (blue), rocks (yellow), and obstacles (red) to update its worldmap.
 
@@ -26,7 +44,7 @@ After implementing the previous perception and decision steps. The rover was lau
 
 The following video shows the rover navigating autonomously while mapping 81% of its environment with 65% fidelity and several rock sample detections.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t6gBQkwMJ14" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6gBQkwMJ14" frameborder="0"></iframe>
 
 Currently, I am working on smoothing out the changes in steering direction by implementing a PD controller to minimize oscillations. This update will be posted shortly.
 You can find the code and a detailed writeup in [this](https://github.com/Tonks89/RoboND-Rover-Project) repository.
@@ -34,6 +52,8 @@ You can find the code and a detailed writeup in [this](https://github.com/Tonks8
  
 
 ## Toolbox for the simulation of the kinematics and sensors of mobile robots 
+
+#### Tools: MATLAB and Simulink
 
 Authors: Ana Lucia Cruz & Ekaterina Peshkova  
 A toolbox in MATLAB/Simulink, containing:  
@@ -45,7 +65,7 @@ The toolbox has been tested on control and localization simulations (for example
 	<a href="/images/GUI_mobilerobot.jpg"><img src="/images/GUI_mobilerobot.jpg" alt="image"></a>
 </figure>
 
-### Download
+#### Download
 
 Coming soon!
 
@@ -54,6 +74,8 @@ Coming soon!
 
 ##  ARACHNIS: A GUI to design and analyze cable-driven robots 
 
+#### Tools: MATLAB
+
 ARACHNIS is a graphical user interface for the analysis and parametric design of Cable Driven Parallel Robots (CDPRs). This interface takes as inputs the design parameters of the robot, the task specifications, and returns a visualisation of a set of workspaces to assess the designs. These workspaces are the  Wrench Feasible Workspace (WFW) and the Interference-Free Constant Orientation Workspace (IFCOW). The WFW is traced from the capacity margin, a measure of the robustness of the equilibrium of the robot. On the other hand, the IFCOW is traced via an existing technique for determining the interferences between the moving parts of CDPRs.
 
 <figure>
@@ -61,16 +83,18 @@ ARACHNIS is a graphical user interface for the analysis and parametric design of
 </figure>
 
 
-### Reference
+#### Reference
 * **Ana Lucia Cruz Ruiz**, Stéphane Caro, Philippe Cardou, François Guay.***"ARACHNIS: Analysis of Robots Actuated by Cables with Handy and Neat Interface Software"***, In Proceedings of the Second International Conference on Cable-Driven Parallel Robots. [Link](http://link.springer.com/chapter/10.1007/978-3-319-09489-2_21#page-1)
 
 
-### Download
+#### Download
 
 Click [here](/share/Arachnis20.zip) to download the latest verion of the interface.
 
 
 ##  A 3 DOF PPR parallel robot
+
+#### Tools: CATIA, MATLAB
 
 This project consisted in designing a parallel robot for assembly operations. To perform this task, the desired mobility of the robot was two translations and one rotation. Such mechanisms are commonly known as cylindrical parallel mechanisms and they are usually employed in machining operations. To comply with the desired assembly task and motion pattern, the mechanism was designed according to the following priorities:
 
@@ -92,23 +116,25 @@ moving platform and normal to the latter.
 </figure>
 
 
-### Download
+#### Download
 Coming soon!  
 For a detailed report on how the mechanism was designed just drop me an email.
 
 <hr>
 
-# ELECTROMYOGRAPHY
+# MACHINE LEARNING
 
-##  An EMG batch processing tool
-Coming soon!
+## Machine learning-based control strategies for virtual characters
 
-## EMG electrode placement and test manual  
+#### Tools: MATLAB, SimMechanics, Non-negative matrix factorization toolbox
 
-Are you an engineer with little or no experience on EMG or motion capture sensors? Then, this manual is for you. 
-The manual guides you through the process of finding bony landmarks, using these landmarks as references for sensor placement, and finally, testing the good placement of the sensors through a series of excercises.
-I designed this manual for my own experiments which involved the human right arm and back, however you could use it as reference to build your own protocol for other body sections.
+This research work was done within the framework of the project [ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage) (Anthropomorphic Action Planning and Understanding), winner of the Grand Prix de l'ANR and funded by the French National Research Agency.
 
-### Download
+The objective of this project was to design simple and compact motion controllers for virtual characters by analyzing how humans control motion. To do this, experiments were conducted in which humans were asked to perform different motor tasks while muscle activity and kinematics were recorded. From this data, an analysis was done to extract the underlying control strategies (or synergies) using machine learning techniques. Such controllers were then adapted to command virtual characters in physics-based environments.
 
-Coming soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHO3eeFI0NI" frameborder="0"></iframe>
+
+#### Reference
+
+* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A synergy-based control solution for overactuated
+characters: application to throwing"***, Computer Animation and Virtual Worlds, 2016. [Link](http://onlinelibrary.wiley.com/doi/10.1002/cav.1743/abstract)
