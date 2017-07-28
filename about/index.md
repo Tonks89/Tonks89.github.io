@@ -10,7 +10,7 @@ image:
   #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Hola! My name is Ana Lucia, I am a robotics engineer interested in the development of smart motion control solutions and the popularization of science and technology.
+Hola! Salut! Hello! Ciao! my name is Ana Lucia, I am a robotics engineer interested in the development of smart motion control solutions, and the popularization of science and technology.
 
 I come from a small but lovely country called Honduras. A land of coffee, mayas, jungles, beaches, first-class reefs, corn-based delicacies, and wonderful people (or catrachos). 
 Since 2011, I have been living in France following my passion for robotics. I began by studying a master's degree in [advanced robotics](http://masteraria.irccyn.ec-nantes.fr/index.php/presentation-roba-en) at the École centrale de Nantes, a place where I did not only learn about jacobians and kinematic models, but also the art of solving problems through robots.
