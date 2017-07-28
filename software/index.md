@@ -11,7 +11,46 @@ insert_title: true
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# ROBOTICS
+# ROBOT PERCEPTION, DECISION-MAKING, CONTROL
+
+## Autonomous navigation 
+
+### Tools: Python and Unity game engine 
+
+This project was modeled after the "NASA sample return challenge", its objective was to enable a rover to navigate autonmously in an unknown environment by developing its ability perceive and decide. To achieve this, two modules were developed: a perception and ad decision-making module. The perception module was used to detect obstacles, rocks (sample of interest), and navigable terrain based on computer vision techniques such as perpective transform, color space transformation, thresholding and distortion reduction. The following video shows how the rover is able to perceive the navigable terrain (blue), rocks (yellow), and obstacles (red) to update its worldmap.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTcLjp4bDvg" frameborder="0"></iframe>
+
+The decision-making module consisted of a decision tree which ensured obstacle avoidance and a wide exploration of the navigable terrain.
+After implementing the previous perception and decision steps. The rover was launched in autonomous mode several times. A mean of its performance was made over 10 trials with respect to the base requirements for the project (40% mapping at 60% fidelity). The rover is able to map at least 40% of the terrain with an accuracy of approximately 81% while finding at least a rock. The rover is of course capable of mapping more terrain and finding more rocks, but the previous statistics were computed to compare its performance with the base requirements.
+
+The following video shows the rover navigating autonomously while mapping 81% of its environment with 65% fidelity and several rock sample detections.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6gBQkwMJ14" frameborder="0" allowfullscreen></iframe>
+
+Currently, I am working on smoothing out the changes in steering direction by implementing a PD controller to minimize oscillations. This update will be posted shortly.
+You can find the code and a detailed writeup in [this](https://github.com/Tonks89/RoboND-Rover-Project) repository.
+
+ 
+
+## Toolbox for the simulation of the kinematics and sensors of mobile robots 
+
+Authors: Ana Lucia Cruz & Ekaterina Peshkova  
+A toolbox in MATLAB/Simulink, containing:  
+1) A library of kinematic models and sensors (exteroceptive and proprioceptive).    
+2) A graphical user interface that allows users to build ready-to-use simulink models containing the different components in the library with personalized parameters.  
+The toolbox has been tested on control and localization simulations (for example: odometry, sequential localization).
+
+<figure>
+	<a href="/images/GUI_mobilerobot.jpg"><img src="/images/GUI_mobilerobot.jpg" alt="image"></a>
+</figure>
+
+### Download
+
+Coming soon!
+
+
+# ROBOT DESIGN
 
 ##  ARACHNIS: A GUI to design and analyze cable-driven robots 
 
@@ -29,22 +68,6 @@ ARACHNIS is a graphical user interface for the analysis and parametric design of
 ### Download
 
 Click [here](/share/Arachnis20.zip) to download the latest verion of the interface.
-
-## Toolbox for the simulation of the kinematics and sensors of mobile robots 
-
-Authors: Ana Lucia Cruz & Ekaterina Peshkova  
-A toolbox in MATLAB/Simulink, containing:  
-1) A library of kinematic models and sensors (exteroceptive and proprioceptive).    
-2) A graphical user interface that allows users to build ready-to-use simulink models containing the different components in the library with personalized parameters.  
-The toolbox has been tested on control and localization simulations (for example: odometry, sequential localization).
-
-<figure>
-	<a href="/images/GUI_mobilerobot.jpg"><img src="/images/GUI_mobilerobot.jpg" alt="image"></a>
-</figure>
-
-### Download
-
-Coming soon!
 
 
 ##  A 3 DOF PPR parallel robot
