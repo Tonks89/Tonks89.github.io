@@ -17,17 +17,32 @@ insert_title: true
 
 #### Tools: ROS, Moveit!, Gazebo, Rviz, Python
 
-
-The objective of this project is to write an Inverse Kinematics solver for the KUKA KR210 robot. This solver is responsible for computing the joint angles corresponding to a desired end-effector or gripper trajectory. The algorithm will be tested on pick and place operations, consisting of picking up objects from different locations on a shelf and depositing them on a bin.
+The objective of this project was to write an Inverse Kinematics (IKM) solver for the KUKA KR210 robot. This solver is responsible for computing the joint angles corresponding to a desired end-effector or gripper trajectory. The algorithm was tested on pick and place operations, consisting of collecting objects from different locations on a shelf and depositing them on a bin.
 
 <center>
 <figure>
-	<img src="../../images/Software/misc2.png" alt="image">
-	<figcaption> Photo courtesy of Udacity RoboND program. </figcaption>
+	<img src="../../images/Software/RoboND_Kinematics/kuka_pickplace.png" alt="image">
+	<figcaption> Kuka KR210 in a pick and place operation. </figcaption>
 </figure>
 </center>
 
-This project is a work in progress, preliminary results will be posted here and in GitHub soon!
+In order to create the IKM solver, first, a kinematic analysis was done consisting of the following steps:
+* Mathematical description of the robot's geometry and determination of its DH parameters.
+* Computation of its Forward Kinematic Model (FKM)
+* Computation of its Inverse Kinematic Model (IKM): Since the robot has a spherical wrist, this problem was decoupled into an inverse position kinematic problem (to determine the first 3 joint variables), and an inverse orientation kinematic problem (to determine the last 3 joint variables).
+
+After implementing this analysis as a python script, the robot was tested in 10 pick and place operations (with different spawn locations). The results show that the robot is able to successfully pick and place the objects 9/10 times while following the desired end-effector trajectories. 
+
+The following video shows a pick and place operation in Rviz (2x actual simulation speed):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OULJVEaE0yI" frameborder="0" allowfullscreen></iframe>
+
+
+Here, is another example in in Gazebo (4x actual simulation speed):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egHG-RJTBWs" frameborder="0" allowfullscreen></iframe>
+
+You can find the code and a detailed writeup of this project in [this](https://github.com/Tonks89/RoboND-Kinematics-Project) repository.
 
 
 
