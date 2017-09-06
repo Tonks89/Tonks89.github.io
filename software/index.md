@@ -19,12 +19,7 @@ insert_title: true
 
 The objective of this project was to write an Inverse Kinematics (IKM) solver for the KUKA KR210 robot. This solver is responsible for computing the joint angles corresponding to a desired end-effector or gripper trajectory. The algorithm was tested on pick and place operations, consisting of collecting objects from different locations on a shelf and depositing them on a bin.
 
-<center>
-<figure>
-	<img src="../../images/Software/RoboND_Kinematics/kuka_pickplace.png" alt="image">
-	<figcaption> Kuka KR210 in a pick and place operation. </figcaption>
-</figure>
-</center>
+
 
 In order to create the IKM solver, first, a kinematic analysis was done consisting of the following steps:
 * Mathematical description of the robot's geometry and determination of its DH parameters.
