@@ -19,8 +19,6 @@ insert_title: true
 
 The objective of this project was to write an Inverse Kinematics (IKM) solver for the KUKA KR210 robot. This solver is responsible for computing the joint angles corresponding to a desired end-effector or gripper trajectory. The algorithm was tested on pick and place operations, consisting of collecting objects from different locations on a shelf and depositing them on a bin.
 
-
-
 In order to create the IKM solver, first, a kinematic analysis was done consisting of the following steps:
 * Mathematical description of the robot's geometry and determination of its DH parameters.
 * Computation of its Forward Kinematic Model (FKM)
@@ -30,12 +28,9 @@ After implementing this analysis as a python script, the robot was tested in 10 
 
 The following video shows a pick and place operation in Rviz (2x actual simulation speed):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OULJVEaE0yI" frameborder="0" allowfullscreen></iframe>
-
 
 Here, is another example in in Gazebo (4x actual simulation speed):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egHG-RJTBWs" frameborder="0" allowfullscreen></iframe>
 
 You can find the code and a detailed writeup of this project in [this](https://github.com/Tonks89/RoboND-Kinematics-Project) repository.
 
