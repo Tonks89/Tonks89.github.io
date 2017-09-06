@@ -13,6 +13,10 @@ insert_title: true
 
 # ROBOT PERCEPTION, DECISION-MAKING, CONTROL
 
+## Perception for pick and place
+
+Coming very very soon!
+
 ## Pick and place 
 
 #### Tools: ROS, Moveit!, Gazebo, Rviz, Python
