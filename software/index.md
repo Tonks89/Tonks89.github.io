@@ -19,6 +19,14 @@ insert_title: true
 
 The objective of this project was to construct a perception pipeline to allow the PR2-robot to recognize specific objects in a cluttered environment for pick and place operations. The pipeline takes as input noisy data from the robot's RGB-D camera and outputs .yaml files containing objects labels, their pick and place positions, and the arm to be used during these operations.
 
+<center>
+<figure>
+	<img src="../../images/Software/RoboND_Perception/image_cover1.png" alt="image">
+	<figcaption> PR2 robot in an environment cluttered with different objects. </figcaption>
+</figure>
+</center>
+
+
 The perception pipeline consisted of 3 mains parts:
 * Part 1: Filtering and RANSAC plane fitting to clean the image and isolate the region of interest.
 * Part 2: Clustering for segmenting the scene into individual objects.
@@ -28,7 +36,15 @@ Given a list of objects to pick from the scene, the pipeline is used to recogniz
 
 Below is an example scene where this pipeline was used for object recognition. The robot was able to recognize 8/8 objects:
 
-You can find more details on this project in this repository.
+<center>
+<figure>
+	<img src="../../images/Software/RoboND_Perception/image11.png" alt="image">
+	<figcaption> PR2 robot recognizing objects in a cluttered environment. </figcaption>
+</figure>
+</center>
+
+You can find more details on this project in [this](https://github.com/Tonks89/RoboND-Perception-Project) repository.
+
 
 
 ## Pick and place 
