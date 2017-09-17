@@ -19,7 +19,7 @@ Currently, I am living in Italy and I'm on the look for similar adventures.
 
 During my free time, I like writing about anything in science I find interesting, reading science fiction and fantasy stories, and playing piano :)
 
-Feel free to explore the site for more info. Here you can download my [CV](/share/Ana_Lucia_Cruz_Ruiz__CV.pdf).
+Feel free to explore the site for more info. Here you can download my [CV](/share/Ana_Lucia_Cruz_CV.pdf).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
