@@ -174,7 +174,7 @@ For a detailed report on how the mechanism was designed just drop me an email.
 
 # MACHINE LEARNING
 
-## Machine learning-based control strategies for virtual characters
+## Low-dimensional control strategies for virtual characters
 
 #### Tools: MATLAB, SimMechanics, Non-negative matrix factorization toolbox
 
