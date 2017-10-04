@@ -99,25 +99,6 @@ The following video shows the rover navigating autonomously while mapping 81% of
 Currently, I am working on smoothing out the changes in steering direction by implementing a PD controller to minimize oscillations. This update will be posted shortly.
 You can find the code and a detailed writeup in [this](https://github.com/Tonks89/RoboND-Rover-Project) repository.
 
- 
-
-## Toolbox for the simulation of the kinematics and sensors of mobile robots 
-
-#### Tools: MATLAB and Simulink
-
-Authors: Ana Lucia Cruz & Ekaterina Peshkova  
-A toolbox in MATLAB/Simulink, containing:  
-1) A library of kinematic models and sensors (exteroceptive and proprioceptive).    
-2) A graphical user interface that allows users to build ready-to-use simulink models containing the different components in the library with personalized parameters.  
-The toolbox has been tested on control and localization simulations (for example: odometry, sequential localization).
-
-<figure>
-	<a href="/images/GUI_mobilerobot.jpg"><img src="/images/GUI_mobilerobot.jpg" alt="image"></a>
-</figure>
-
-#### Download
-
-Coming soon!
 
 
 # ROBOT DESIGN
