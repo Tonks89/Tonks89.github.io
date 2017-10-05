@@ -96,7 +96,6 @@ The following video shows the rover navigating autonomously while mapping 81% of
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6gBQkwMJ14" frameborder="0"></iframe>
 
-Currently, I am working on smoothing out the changes in steering direction by implementing a PD controller to minimize oscillations. This update will be posted shortly.
 You can find the code and a detailed writeup in [this](https://github.com/Tonks89/RoboND-Rover-Project) repository.
 
 
