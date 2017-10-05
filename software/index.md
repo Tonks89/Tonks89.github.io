@@ -153,7 +153,7 @@ For a detailed report on how the mechanism was designed just drop me an email.
 
 <hr>
 
-# MACHINE LEARNING
+# MOTION ANALYSIS/CONTROL
 
 ## Low-dimensional control strategies for virtual characters
 
