@@ -13,6 +13,31 @@ insert_title: true
 
 # ROBOT PERCEPTION, DECISION-MAKING, CONTROL
 
+## Deep learning for semantic image segmentation
+
+#### Tools: TensorFlow, Keras, Python, Unity game engine
+
+The objective of this project was to design a deep neural network allowing a quadcopter to locate a target of interest (person) in a series of images captured with it's camera. Using this information, the quadcopter is able to follow around the target in an environment populated with other virtual humans and objects.
+
+The image below shows the quadcopter following the target of interest, and the images processed by the neural network (right -"pyqtgraph"). The target of interest is denoted by a dark purple silhouette, while the other people are denoted by green silhouettes.
+
+<center>
+<figure>
+	<img src="../../images/Software/RoboND_DeepLearning/image_cover.png" alt="image">
+	<figcaption> Quadcopter following target. </figcaption>
+</figure>
+</center>
+
+The chosen architecture was a fully convolution neural network which resulted in a final score of 0.46 (above the base requirement of 0.4). This network was later used in simulation, to enable the quadcopter to follow the target through crowded and uncrowded areas in a virtual environment.
+
+The following video shows the quadcopter following the target in simulation:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PC8Qb1PBAs" frameborder="0" allowfullscreen></iframe>
+
+You can find more details on this project in [this](https://github.com/Tonks89/RoboND-DeepLearning_Project) repository.
+
+
+
 ## Perception for pick and place
 
 #### Tools: ROS, Gazebo, Rviz, Python
@@ -85,7 +110,7 @@ You can find the code and a detailed writeup of this project in [this](https://g
 
 #### Tools: Python and Unity game engine 
 
-This project was modeled after the "NASA sample return challenge", its objective was to enable a rover to navigate autonmously in an unknown environment by developing its ability perceive and decide. To achieve this, two modules were developed: a perception and ad decision-making module. The perception module was used to detect obstacles, rocks (sample of interest), and navigable terrain based on computer vision techniques such as perpective transform, color space transformation, thresholding and distortion reduction. The following video shows how the rover is able to perceive the navigable terrain (blue), rocks (yellow), and obstacles (red) to update its worldmap.
+This project was modeled after the "NASA sample return challenge", its objective was to enable a rover to navigate autonomously in an unknown environment by developing its ability perceive and decide. To achieve this, two modules were developed: a perception and ad decision-making module. The perception module was used to detect obstacles, rocks (sample of interest), and navigable terrain based on computer vision techniques such as perpective transform, color space transformation, thresholding and distortion reduction. The following video shows how the rover is able to perceive the navigable terrain (blue), rocks (yellow), and obstacles (red) to update its worldmap.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTcLjp4bDvg" frameborder="0"></iframe>
 
