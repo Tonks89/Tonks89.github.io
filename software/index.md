@@ -185,9 +185,9 @@ For a detailed report on how the mechanism was designed just drop me an email.
 
 This research work was done within the framework of the project [ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage) (Anthropomorphic Action Planning and Understanding), winner of the Grand Prix de l'ANR and funded by the French National Research Agency.
 
-The objective of this project was to design simple and compact motion controllers for virtual characters by analyzing how humans control motion. To do this, experiments were conducted in which humans were asked to perform different motor tasks while muscle activity and kinematics were recorded. From this data, an analysis was done to extract the underlying control strategies (or synergies) using machine learning techniques. Such controllers were then adapted to command virtual characters in physics-based environments.
+The objective of this project was to design simple and compact motion controllers for virtual characters by analyzing how humans control motion. To do this, experiments were conducted in which humans were asked to perform different motor tasks while muscle activity and kinematics were recorded. From this data, an analysis was done to extract the underlying control strategies (or synergies) using factorization and machine learning techniques. Such controllers were then adapted to command virtual characters in physics-based environments.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YHO3eeFI0NI" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y67LZHAvqNo" frameborder="0" allowfullscreen></iframe>
 
 #### Reference
 
