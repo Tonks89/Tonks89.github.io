@@ -11,6 +11,12 @@ insert_title: true
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+# 2017
+
+* **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"Low-Dimensional Motor Control Representations in Throwing Motions"***, Applied Bionics and Biomechanics, 2017. Doi: [10.1155/2017/3050917](https://doi.org/10.1155/2017/3050917)  <a href="https://www.researchgate.net/publication/320762283_Low-Dimensional_Motor_Control_Representations_in_Throwing_Motions" class="bibIcon"><i class="fa fa-file-pdf-o"></i></a>
+
+
+
 # 2016
 
 * **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A synergy-based control solution for overactuated
