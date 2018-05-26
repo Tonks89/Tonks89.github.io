@@ -18,7 +18,7 @@ Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) ([ANR
 
 During my free time, I like promoting STEM among women and children, writing about anything in science I find interesting, getting immersed in Asimov's or Tolkien's stories, and playing piano :)
 
-Feel free to explore the site for more info. Here you can download my [CV](/share/CV.pdf).
+Feel free to explore the site for more info. Here you can download my [CV](/share/Ana_Cruz_CV.pdf).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
