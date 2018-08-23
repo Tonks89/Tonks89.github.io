@@ -50,7 +50,16 @@ Today, the voyagers have completed their planetary missions giving us data and n
 <figure class="half">
 	<img src="../../images/posts/The_voyager_mission/JUPITER.gif" alt="image">
 	<img src="../../images/posts/The_voyager_mission/SATURN.gif" alt="image">
-	<figcaption> (Left) This time-lapse video records Voyager 1's approach to Jupiter during a period of over 60 Jupiter days. Credits: NASA/JPL-Caltech. (Right) Voyager 1 color-enhanced image of Saturn taken on October 18, 1980, 25 days before closest approach. Credits: NASA/JPL-Caltech
+	<figcaption> (Left) This time-lapse video records Voyager 1's approach to Jupiter with a focus on its great red spot. Credits: NASA/JPL-Caltech. (Right) Saturn, its rings and moons. The high-resolution data taken from the voyagers changed many of our initial perceptions of this planet. Credits: NASA/JPL-Caltech
+ </figcaption>
+</figure>
+</center>
+
+<center>
+<figure class="half">
+	<img src="../../images/posts/The_voyager_mission/URANUS.gif" alt="image">
+	<img src="../../images/posts/The_voyager_mission/NEPTUNE.gif" alt="image">
+	<figcaption> (Left) Uranus true-color and false-color views, its ring system and moons. Credits: NASA/JPL-Caltech. (Right) Voyager 2's approach to Neptune. Credits: NASA/JPL-Caltech
  </figcaption>
 </figure>
 </center>
