@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The age of the machine man
+title: The voyager mission & the cosmic ocean
 excerpt: ""
 modified: 2017-04-10T14:17:25-04:00
 categories: articles
@@ -27,14 +27,20 @@ In the 1970s mankind took an important leap into the mysterious and yet marvelou
 The spacecrafts’ planetary mission was to explore our solar system’s gas giants: Jupiter, Saturn, Uranus and Neptune in one single trip. A once-in-several lifetimes opportunity thanks to a convenient planet alignment that occurs once every 175 years. Such alignment, would make it possible to sling shot the spacecrafts past each planet thanks to their gravitational assist. And so, the voyagers launched in 1977 with different trajectories. Voyager 2 launched first, taking a longer route which would allow it to visit Jupiter and Saturn, and become the first spacecraft to visit the ice giants, Uranus and Neptune. Voyager 1 launched some days after its twin, with the objective of visiting Jupiter, Saturn, and Saturn's largest moon, Titan.
 
 
-
 <center>
-<figure class="half">
+<figure>
 	<img src="../../images/posts/The_voyager_mission/voyagerart1.jpg" alt="image">
-	<img src="../../images/posts/The_voyager_mission/PathsVoyagers.jpg" alt="image">
-	<figcaption> (Left) Artist's concept of the Voyager spacecraft in space. Credits: NASA. (Right) Voyager 1 and 2 disctinct trajectories through the solar system. Credits: Pearson Education. </figcaption>
+	<figcaption> Artist's concept of the Voyager spacecraft in space. Credits: NASA. </figcaption>
 </figure>
 </center>
+<center>
+
+<figure>
+	<img src="../../images/posts/The_voyager_mission/PathsVoyagers.jpg" alt="image">
+	<figcaption> Voyager 1 and 2 disctinct trajectories through the solar system. Credits: Pearson Education. </figcaption>
+</figure>
+</center>
+
 
 
 Today, the voyagers have completed their planetary missions giving us data and never before seen images, that have made us discover, wonder and admire our cosmic ocean and its particles. Through their eyes, we realized that Jupiter’s great red spot is actually a complex storm moving in a counterclockwise direction, that volcanism can be observed in other body’s of the solar system (such as in Jupiter's moon Io, which has 100 times the volcanic activity of Earth).  Through their eyes, we saw some of Saturn’s moons and rings for the first time, we got the first and only close look at Uranus and Neptune (their rings and moons), we witnessed how the winds in Neptune blow faster than anywhere else in the solar system, and how its most massive moon orbits backwards from all other large moons in the solar system.
@@ -43,7 +49,7 @@ Today, the voyagers have completed their planetary missions giving us data and n
 <center>
 <figure class="half">
 	<img src="../../images/posts/The_voyager_mission/jupiter.gif" alt="image">
-	<img src="../../images/posts/The_voyager_mission/saturn.jpg" alt="image">
+	<img src="../../images/posts/The_voyager_mission/saturn2.jpg" alt="image">
 	<figcaption> (Left) This time-lapse video records Voyager 1's approach to Jupiter during a period of over 60 Jupiter days. Credits: NASA/JPL-Caltech. (Right) Voyager 1 color-enhanced image of Saturn taken on October 18, 1980, 25 days before closest approach. Credits: NASA/JPL-Caltech
  </figcaption>
 </figure>
