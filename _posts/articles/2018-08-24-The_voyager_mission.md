@@ -15,13 +15,6 @@ share: true
 
 *“Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.” - Carl Sagan*
 
-<center>
-<figure>
-	<img src="../../images/posts/The_voyager_mission/CarlSagaArt.jpg" alt="image">
-	<figcaption> Carl Sagan portrayed in Jacqueline Rae's "Glorious Dawn". </figcaption>
-</figure>
-</center>
-
 In the 1970s mankind took an important leap into the mysterious and yet marvelous depths of the cosmic ocean we call “universe” with the Voyager program and their Grand Tour of the solar system. The voyager spacecrafts were designed to go where no other man made object had ever gone before, carrying a little bit of our humanity at their core.
 
 The spacecrafts’ planetary mission was to explore our solar system’s gas giants: Jupiter, Saturn, Uranus and Neptune in one single trip. A once-in-several lifetimes opportunity thanks to a convenient planet alignment that occurs once every 175 years. Such alignment, would make it possible to sling shot the spacecrafts past each planet thanks to their gravitational assist. And so, the voyagers launched in 1977 with different trajectories. Voyager 2 launched first, taking a longer route which would allow it to visit Jupiter and Saturn, and become the first spacecraft to visit the ice giants, Uranus and Neptune. Voyager 1 launched some days after its twin, with the objective of visiting Jupiter, Saturn, and Saturn's largest moon, Titan.
@@ -86,9 +79,17 @@ Each golden phonograph record contains [images](https://voyager.jpl.nasa.gov/gal
 
 In the universe, the space between stars is immense. So immense, that it will take Voyager 1 40,000 years to pass near another star (Gliese 445). However, even if the Voyagers wander eternally along the Milky Way, one day, these “time capsules” might become the only evidence that mankind ever existed. If we don’t find a new home in the cosmos within the next couple of billion years, the human race will cease to exist. In about 5 billion years, the sun will grow so large that Earth will receive as much sunlight as venus receives today, wiping out life as we know it. That is, if we do not destroy it first. Our careless consumption of resources, our refusal to look down from our privileged place in the world, our chosen ignorance regarding the conflicts that those privileges entail for the majority of Earth’s human population, other species and the environment, one day might destroy the only home we’ve ever known. And so, the Voyagers and their golden records could become the reminiscence of a “pale blue dot”, a beautiful place that hosted a rich diversity of life forms, among them humans, who decided to sail for the stars while neglecting their port of departure. 
 
+
+
 <center>
 <figure>
+    <img src="../../images/posts/The_voyager_mission/CarlSagaArt2.jpg" alt="image">
 	<img src="../../images/posts/The_voyager_mission/ThePaleBlueDot.jpg" alt="image">
-	<figcaption> The Pale Blue Dot, is an iconic picture of Earth taken from Voyager 1 from a record distance of almost 4 billion miles. At the request of Carl Sagan, Voyager 1 turned around to take one last look at our home. Earth can be seen as a dot halfway along the orange ray of light on the right, on this dot: "… everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar", every "supreme leader", every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam." -Carl Sagan  Credit: NASA. </figcaption>
+	<figcaption> (Left) Carl Sagan portrayed in Jacqueline Rae's "Glorious Dawn". (Right) The Pale Blue Dot, is an iconic picture of Earth taken from Voyager 1 from a record distance of almost 4 billion miles. At the request of Carl Sagan, Voyager 1 turned around to take one last look at our home. Earth can be seen as a dot halfway along the orange ray of light on the right, on this dot: "… everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar", every "supreme leader", every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam." -Carl Sagan  Credit: NASA. </figcaption>
 </figure>
 </center>
+
+
+
+
+
