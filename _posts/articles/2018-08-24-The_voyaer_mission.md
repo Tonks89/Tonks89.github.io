@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The voyager mission & the cosmic ocean
+title: A voyager's mission into a cosmic ocean
 excerpt: ""
 modified: 2017-04-10T14:17:25-04:00
 categories: articles
@@ -74,6 +74,7 @@ Voyager 1 entered interstellar space in 2012 (making it humanity’s farthest sp
 
 Each golden phonograph record contains [images](https://voyager.jpl.nasa.gov/galleries/images-on-the-golden-record/) and [sounds](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/sounds/) from earth selected by the legendary Carl Sagan. The sounds range from thunder and birds, to Bach concertos,  Peruvian panpipes, and spoken greetings from Earth-people in fifty-five languages. The images depict the planets in our solar system, Earth, the DNA structure, mathematical definitions, a women feeding a child, people eating and drinking, snowflakes, sand dunes, a dancer from bali, a sunset and many other earthly views. The record’s emblematic [cover](https://voyager.jpl.nasa.gov/golden-record/golden-record-cover/) contains indications on how to play it, how to decode its images, and the location of our solar system with respect to 14 pulsars (“flickering stars” in the night sky, which are actually the remains of “dying stars” that rotate while emitting steady beams of light).
 
+<center>
 <figure>
 	<img src="../../images/posts/The_voyager_mission/record-diagram.jpg" alt="image">
 	<figcaption> The Golden Record cover shown with its extraterrestrial instructions (the pulsar map is represented on the bottom left of the disk by intersecting lines). Credit: NASA/JPL. </figcaption>
@@ -85,6 +86,7 @@ Each golden phonograph record contains [images](https://voyager.jpl.nasa.gov/gal
 
 In the universe, the space between stars is immense. So immense, that it will take Voyager 1 40,000 years to pass near another star (Gliese 445). However, even if the Voyagers wander eternally along the Milky Way, one day, these “time capsules” might become the only evidence that mankind ever existed. If we don’t find a new home in the cosmos within the next couple of billion years, the human race will cease to exist. In about 5 billion years, the sun will grow so large that Earth will receive as much sunlight as venus receives today, wiping out life as we know it. That is, if we do not destroy it first. Our careless consumption of resources, our refusal to look down from our privileged place in the world, our chosen ignorance regarding the conflicts that those privileges entail for the majority of Earth’s human population, other species and the environment, one day might destroy the only home we’ve ever known. And so, the Voyagers and their golden records could become the reminiscence of a “pale blue dot”, a beautiful place that hosted a rich diversity of life forms, among them humans, who decided to sail for the stars while neglecting their port of departure. 
 
+<center>
 <figure>
 	<img src="../../images/posts/The_voyager_mission/ThePaleBlueDot.jpg" alt="image">
 	<figcaption> The Pale Blue Dot, is an iconic picture of Earth taken from Voyager 1 from a record distance of almost 4 billion miles. At the request of Carl Sagan, Voyager 1 turned around to take one last look at our home. Earth can be seen as a dot halfway along the orange ray of light on the right, on this dot: "… everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar", every "supreme leader", every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam." -Carl Sagan  Credit: NASA. </figcaption>
