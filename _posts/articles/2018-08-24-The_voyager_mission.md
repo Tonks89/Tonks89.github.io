@@ -6,9 +6,9 @@ modified: 2017-04-10T14:17:25-04:00
 categories: articles
 insert_logo: true
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: cover2.jpg
+  credit: getwallpapers
+  creditlink: http://getwallpapers.com/wallpaper/full/e/c/e/445967.jpg
 comments: true
 share: true
 ---
@@ -18,11 +18,11 @@ share: true
 <center>
 <figure>
 	<img src="../../images/posts/The_voyager_mission/CarlSagaArt.jpg" alt="image">
-	<figcaption> Carl Sagan portrayed in JacquelineRae's "Glorious Dawn". </figcaption>
+	<figcaption> Carl Sagan portrayed in Jacqueline Rae's "Glorious Dawn". </figcaption>
 </figure>
 </center>
 
-In the 1970s mankind took an important leap into the mysterious and yet marvelous depths of the cosmic ocean we call “universe” with the Voyager program and their grand tour of the solar system. The voyager spacecrafts were designed to go where no other man made object had ever gone before, carrying a little bit of our humanity at their core.
+In the 1970s mankind took an important leap into the mysterious and yet marvelous depths of the cosmic ocean we call “universe” with the Voyager program and their Grand Tour of the solar system. The voyager spacecrafts were designed to go where no other man made object had ever gone before, carrying a little bit of our humanity at their core.
 
 The spacecrafts’ planetary mission was to explore our solar system’s gas giants: Jupiter, Saturn, Uranus and Neptune in one single trip. A once-in-several lifetimes opportunity thanks to a convenient planet alignment that occurs once every 175 years. Such alignment, would make it possible to sling shot the spacecrafts past each planet thanks to their gravitational assist. And so, the voyagers launched in 1977 with different trajectories. Voyager 2 launched first, taking a longer route which would allow it to visit Jupiter and Saturn, and become the first spacecraft to visit the ice giants, Uranus and Neptune. Voyager 1 launched some days after its twin, with the objective of visiting Jupiter, Saturn, and Saturn's largest moon, Titan.
 
