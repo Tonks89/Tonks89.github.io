@@ -48,8 +48,8 @@ Today, the voyagers have completed their planetary missions giving us data and n
 
 <center>
 <figure class="half">
-	<img src="../../images/posts/The_voyager_mission/jupiter.gif" alt="image">
-	<img src="../../images/posts/The_voyager_mission/saturn3.jpg" alt="image">
+	<img src="../../images/posts/The_voyager_mission/JUPITER.gif" alt="image">
+	<img src="../../images/posts/The_voyager_mission/SATURN.gif" alt="image">
 	<figcaption> (Left) This time-lapse video records Voyager 1's approach to Jupiter during a period of over 60 Jupiter days. Credits: NASA/JPL-Caltech. (Right) Voyager 1 color-enhanced image of Saturn taken on October 18, 1980, 25 days before closest approach. Credits: NASA/JPL-Caltech
  </figcaption>
 </figure>
