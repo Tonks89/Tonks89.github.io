@@ -55,9 +55,9 @@ Today, the voyagers have completed their planetary missions giving us data and n
 </center>
 
 <center>
-<figure class="half">
-	<img src="../../images/posts/The_voyager_mission/URANUS2.gif" alt="image" height="270">
-	<img src="../../images/posts/The_voyager_mission/NEPTUNE.gif" alt="image" height="270">
+<figure>
+	<img src="../../images/posts/The_voyager_mission/URANUS2.gif" alt="image" width="321">
+	<img src="../../images/posts/The_voyager_mission/NEPTUNE.gif" alt="image" width="371">
 	<figcaption> (Left) Uranus true-color and false-color views, its ring system and moons. Credits: NASA/JPL-Caltech. (Right) Voyager 2's approach to Neptune. Credits: NASA/JPL-Caltech
  </figcaption>
 </figure>
