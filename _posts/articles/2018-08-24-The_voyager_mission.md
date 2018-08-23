@@ -6,7 +6,7 @@ modified: 2017-04-10T14:17:25-04:00
 categories: articles
 insert_logo: true
 image:
-  feature: cover2.jpg
+  feature: ../../images/posts/The_voyager_mission/cover2.jpg
   credit: getwallpapers
   creditlink: http://getwallpapers.com/wallpaper/full/e/c/e/445967.jpg
 comments: true
