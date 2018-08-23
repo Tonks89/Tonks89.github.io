@@ -82,6 +82,7 @@ In the universe, the space between stars is immense. So immense, that it will ta
 
 
 <center>
+<figure class="half">
 <figure>
     <img src="../../images/posts/The_voyager_mission/CarlSagaArt2.jpg" alt="image">
 	<img src="../../images/posts/The_voyager_mission/ThePaleBlueDot.jpg" alt="image">
