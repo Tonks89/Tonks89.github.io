@@ -15,7 +15,7 @@ share: true
 
 *“Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.” - Carl Sagan*
 
-In the 1970s mankind took an important leap into the mysterious and yet marvelous depths of the cosmic ocean we call “universe” with the Voyager program and a Grand Tour of the solar system. The voyager spacecrafts were designed to go where no other man-made object had ever gone before, carrying a little bit of our humanity at their core.
+In the 1970s mankind took a leap into the mysterious and marvelous depths of the cosmic ocean we call “universe” with the Voyager program and a Grand Tour of the solar system. The voyager spacecrafts were designed to go where no other man-made object had ever gone before, carrying a little bit of our humanity at their core.
 
 The spacecrafts’ planetary mission was to explore our solar system’s gas giants: Jupiter, Saturn, Uranus and Neptune in one single trip. A once-in-several lifetimes opportunity thanks to a convenient planet alignment that occurs once every 175 years. Such an alignment, would make it possible to sling shot the spacecrafts past each planet thanks to their gravitational assist. And so, the voyagers launched in 1977 with different trajectories. Voyager 2 launched first, taking a longer route which would allow it to visit Jupiter and Saturn, and become the first spacecraft to visit the ice giants, Uranus and Neptune. Voyager 1 launched some days after its twin, with the objective of visiting Jupiter, Saturn, and Saturn's largest moon, Titan.
 
