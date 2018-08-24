@@ -86,7 +86,7 @@ In the universe, the space between the stars is immense. So immense, that it wil
 <figure class="half">
     <img src="../../images/posts/The_voyager_mission/CarlSagaArt2.jpg" alt="image">
 	<img src="../../images/posts/The_voyager_mission/ThePaleBlueDot.jpg" alt="image">
-	<figcaption> (Left) Carl Sagan portrayed in Jacqueline Rae's "Glorious Dawn". (Right) The Pale Blue Dot, is an iconic picture of Earth taken from Voyager 1 from a record distance of almost 4 billion miles. At the request of Carl Sagan, Voyager 1 turned around to take one last look at our home. Earth can be seen as a dot halfway along the orange ray of light on the right. Credit: NASA. </figcaption>
+	<figcaption> (Left) Carl Sagan portrayed in Jacqueline Rae's "Glorious Dawn". (Right) The Pale Blue Dot is an iconic picture of Earth taken from Voyager 1 from a record distance of almost 4 billion miles. At the request of Carl Sagan, Voyager 1 turned around to take one last look at our home. Earth can be seen as a dot halfway along the orange ray of light on the right. Credit: NASA. </figcaption>
 </figure>
 </center>
 
