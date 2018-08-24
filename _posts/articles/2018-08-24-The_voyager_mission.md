@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A voyager's mission into a cosmic ocean
+title: A voyager's journey into the cosmic ocean
 excerpt: ""
 modified: 2018-08-24T14:17:25-04:00
 categories: articles
