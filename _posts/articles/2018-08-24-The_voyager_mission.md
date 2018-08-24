@@ -2,7 +2,7 @@
 layout: post
 title: A voyager's mission into a cosmic ocean
 excerpt: ""
-modified: 2017-04-10T14:17:25-04:00
+modified: 2018-08-24T14:17:25-04:00
 categories: articles
 insert_logo: true
 image:
