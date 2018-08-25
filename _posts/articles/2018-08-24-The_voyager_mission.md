@@ -30,7 +30,7 @@ The spacecrafts’ planetary mission was to explore our solar system’s gas gia
 
 <figure>
 	<img src="../../images/posts/The_voyager_mission/trajectories.jpg" alt="image">
-	<figcaption> Voyager 1 and 2 distinct trajectories through the solar system. Credits: Pearson Education. </figcaption>
+	<figcaption> Voyager 1 and 2 distinct trajectories through the solar system. Credits: NASA. </figcaption>
 </figure>
 </center>
 
