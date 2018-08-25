@@ -92,11 +92,10 @@ In the universe, the space between the stars is immense. So immense, that it wil
 
 Further information:
 
-- An excerpt from Carl Sagan's "Pale blue dot" book and some of his thoughts on the voyagers' future:
+- "The Farthest" trailer, a documentary about the Voyager mission:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znTdk_de_K8" frameborder="0" allowfullscreen></iframe>
+
+- An excerpt from Carl Sagan's "Pale blue dot" book and his thoughts on the voyagers' future:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EPXYUR5TqAQ" frameborder="0"></iframe>
-
-- "The Farthest", a documentary about the Voyager mission:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xYKoRbGXPIA" frameborder="0" allowfullscreen></iframe>
-
 
 
