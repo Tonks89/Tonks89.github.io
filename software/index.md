@@ -193,3 +193,5 @@ The objective of this project was to design simple and compact motion controller
 
 * **Ana Lucia Cruz Ruiz**, Charles Pontonnier, and Georges Dumont. ***"A synergy-based control solution for overactuated
 characters: application to throwing"***, Computer Animation and Virtual Worlds, 2016. [Link](http://onlinelibrary.wiley.com/doi/10.1002/cav.1743/abstract)
+
+https://drive.google.com/drive/folders/1aPstkEMehcepfGw5TfSlmJPDl-I6Old7 
