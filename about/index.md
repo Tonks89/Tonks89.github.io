@@ -14,7 +14,9 @@ Hola! Salut! Hello! Ciao! my name is Ana Lucia, I am a Robotics engineer and Sci
 
 I come from a small but lovely country called Honduras. A land of coffee, mayas, jungles, beaches, first-class reefs, corn-based delicacies, and wonderful people (or catrachos). 
 In 2011, I moved to France to follow my passion for robotics. I began by studying a master's degree in [advanced robotics](http://masteraria.irccyn.ec-nantes.fr/index.php/presentation-roba-en) at the École centrale de Nantes. There, I learned about jacobians, kinematic models, and the art of solving problems through robots.
-Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) ([ANR project ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage)), where I worked on understanding how humans control their motions in order to simplify the way we control avatars and robots. Currently, I am also working on STEM advocacy initiatives and making scientific content accessible to everyone, everywhere. For this purpose, I design workshops, teach, and also organize fundraisers to provide children in Honduras with computers. The access to a basic education is a privilege in most places in the world, I believe in democratizing STEM education for a global, sustainable future.
+Afterwards, I did a Ph.D. at [INRIA](http://www.inria.fr/en/centre/rennes) ([ANR project ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php?n=Main.HomePage)), where I worked on understanding how humans control their motions in order to simplify the way we control avatars and robots. 
+
+As much as I love learning about STEM, I also enjoy teaching and communicating. Currently, I am working on a project called "The Inventor's Playground". This project aims to empower children as creative thinkers so they can reach their full potential and succeed in the 21st century. Our focus has been mainly in Honduras, but we plan to start workshops in London as well.
 
 During my free time, I also enjoy writing about anything in science I find interesting, getting immersed in Asimov's or Tolkien's stories, and playing piano.
 
