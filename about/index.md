@@ -20,7 +20,7 @@ As much as I love learning about STEM, I also enjoy teaching and communicating. 
 
 During my free time, I also enjoy writing about anything in science I find interesting, getting immersed in Asimov's or Tolkien's stories, and playing piano.
 
-Feel free to explore the site for more info or checkout my latest [CV](/share/AnaLuciaCruz_CV.pdf).
+Feel free to explore the site for more info or checkout my latest [CV](/share/AnaLuciaCruz_CV_EN.pdf).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17PEVTE55f01ViOoxnm46z_7eCP4" width="640" height="480"></iframe>
 
